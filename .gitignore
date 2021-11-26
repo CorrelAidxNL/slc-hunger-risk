@@ -5,7 +5,6 @@ data/raw/
 data/processed/
 !data/processed/.placeholder
 
-
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,latex,visualstudiocode,vim,r
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,latex,visualstudiocode,vim,r
 
@@ -548,3 +547,4 @@ tags
 !.vscode/*.code-snippets
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,latex,visualstudiocode,vim,r
+
