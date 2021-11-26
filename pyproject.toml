@@ -6,6 +6,8 @@ authors = ["Patryk Kubiczek <patryk.kubiczek@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.3.4"
+requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
