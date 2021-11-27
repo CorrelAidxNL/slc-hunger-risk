@@ -1,0 +1,1995 @@
+Commodity_Code,Commodity_Description,Country_Code,Country_Name,Market_Year,Calendar_Year,Month,Attribute_ID,Attribute_Description,Unit_ID,Unit_Description,Value
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,020,Beginning Stocks,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,007,Crush,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,125,Domestic Consumption,08,(1000 MT),9.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,176,Ending Stocks,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,088,Exports,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,181,"Extr. Rate, 999.9999",23,(PERCENT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,161,Feed Waste Dom. Cons.,08,(1000 MT),9.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,149,Food Use Dom. Cons.,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,057,Imports,08,(1000 MT),9.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,140,Industrial Dom. Cons.,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,028,Production,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,194,SME,08,(1000 MT),9.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,178,Total Distribution,08,(1000 MT),9.0000
+0813100,"Meal, Soybean",NS,Suriname,1983,2006,06,086,Total Supply,08,(1000 MT),9.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,020,Beginning Stocks,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,007,Crush,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,125,Domestic Consumption,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,176,Ending Stocks,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,088,Exports,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,181,"Extr. Rate, 999.9999",23,(PERCENT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,161,Feed Waste Dom. Cons.,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,149,Food Use Dom. Cons.,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,057,Imports,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,140,Industrial Dom. Cons.,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,028,Production,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,194,SME,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,178,Total Distribution,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1984,2006,06,086,Total Supply,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,020,Beginning Stocks,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,007,Crush,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,125,Domestic Consumption,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,176,Ending Stocks,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,088,Exports,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,181,"Extr. Rate, 999.9999",23,(PERCENT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,161,Feed Waste Dom. Cons.,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,149,Food Use Dom. Cons.,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,057,Imports,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,140,Industrial Dom. Cons.,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,028,Production,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,194,SME,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,178,Total Distribution,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1985,2006,06,086,Total Supply,08,(1000 MT),11.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,020,Beginning Stocks,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,007,Crush,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,125,Domestic Consumption,08,(1000 MT),4.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,176,Ending Stocks,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,088,Exports,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,181,"Extr. Rate, 999.9999",23,(PERCENT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,161,Feed Waste Dom. Cons.,08,(1000 MT),4.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,149,Food Use Dom. Cons.,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,057,Imports,08,(1000 MT),4.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,140,Industrial Dom. Cons.,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,028,Production,08,(1000 MT),0.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,194,SME,08,(1000 MT),4.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,178,Total Distribution,08,(1000 MT),4.0000
+0813100,"Meal, Soybean",NS,Suriname,1986,2006,06,086,Total Supply,08,(1000 MT),4.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,004,Area Harvested,04,(1000 HA),26.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,125,Domestic Consumption,08,(1000 MT),26.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,088,Exports,08,(1000 MT),19.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,028,Production,08,(1000 MT),45.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,054,Rough Production,08,(1000 MT),72.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,178,Total Distribution,08,(1000 MT),45.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,086,Total Supply,08,(1000 MT),45.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,113,TY Exports,08,(1000 MT),19.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1960,2006,07,184,Yield,26,(MT/HA),2.7700
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,004,Area Harvested,04,(1000 HA),26.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,125,Domestic Consumption,08,(1000 MT),24.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,088,Exports,08,(1000 MT),21.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,028,Production,08,(1000 MT),45.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,054,Rough Production,08,(1000 MT),72.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,178,Total Distribution,08,(1000 MT),45.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,086,Total Supply,08,(1000 MT),45.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,113,TY Exports,08,(1000 MT),21.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1961,2006,07,184,Yield,26,(MT/HA),2.7700
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,004,Area Harvested,04,(1000 HA),27.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,125,Domestic Consumption,08,(1000 MT),28.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,088,Exports,08,(1000 MT),22.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,028,Production,08,(1000 MT),50.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,054,Rough Production,08,(1000 MT),79.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,178,Total Distribution,08,(1000 MT),50.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,086,Total Supply,08,(1000 MT),50.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,113,TY Exports,08,(1000 MT),22.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1962,2006,07,184,Yield,26,(MT/HA),2.9300
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,004,Area Harvested,04,(1000 HA),28.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,125,Domestic Consumption,08,(1000 MT),33.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,088,Exports,08,(1000 MT),14.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,028,Production,08,(1000 MT),47.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,054,Rough Production,08,(1000 MT),75.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,178,Total Distribution,08,(1000 MT),47.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,086,Total Supply,08,(1000 MT),47.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,113,TY Exports,08,(1000 MT),14.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1963,2006,07,184,Yield,26,(MT/HA),2.6800
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,004,Area Harvested,04,(1000 HA),30.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,125,Domestic Consumption,08,(1000 MT),34.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,088,Exports,08,(1000 MT),21.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,028,Production,08,(1000 MT),55.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,054,Rough Production,08,(1000 MT),88.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,178,Total Distribution,08,(1000 MT),55.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,086,Total Supply,08,(1000 MT),55.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,113,TY Exports,08,(1000 MT),21.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1964,2006,07,184,Yield,26,(MT/HA),2.9300
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,004,Area Harvested,04,(1000 HA),34.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,125,Domestic Consumption,08,(1000 MT),43.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,088,Exports,08,(1000 MT),20.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,028,Production,08,(1000 MT),63.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,054,Rough Production,08,(1000 MT),100.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,178,Total Distribution,08,(1000 MT),63.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,086,Total Supply,08,(1000 MT),63.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,113,TY Exports,08,(1000 MT),20.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1965,2019,02,184,Yield,26,(MT/HA),2.9400
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,004,Area Harvested,04,(1000 HA),29.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,125,Domestic Consumption,08,(1000 MT),37.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,088,Exports,08,(1000 MT),25.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,028,Production,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,054,Rough Production,08,(1000 MT),98.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,178,Total Distribution,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,086,Total Supply,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,113,TY Exports,08,(1000 MT),25.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1966,2019,02,184,Yield,26,(MT/HA),3.3800
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,004,Area Harvested,04,(1000 HA),34.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,125,Domestic Consumption,08,(1000 MT),44.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,088,Exports,08,(1000 MT),32.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,028,Production,08,(1000 MT),76.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,054,Rough Production,08,(1000 MT),120.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,178,Total Distribution,08,(1000 MT),76.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,086,Total Supply,08,(1000 MT),76.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,113,TY Exports,08,(1000 MT),32.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1967,2006,07,184,Yield,26,(MT/HA),3.5300
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,004,Area Harvested,04,(1000 HA),35.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,125,Domestic Consumption,08,(1000 MT),50.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,088,Exports,08,(1000 MT),23.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,028,Production,08,(1000 MT),73.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,054,Rough Production,08,(1000 MT),116.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,178,Total Distribution,08,(1000 MT),73.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,086,Total Supply,08,(1000 MT),73.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,113,TY Exports,08,(1000 MT),23.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1968,2006,07,184,Yield,26,(MT/HA),3.3100
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,004,Area Harvested,04,(1000 HA),32.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,125,Domestic Consumption,08,(1000 MT),55.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,088,Exports,08,(1000 MT),16.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,028,Production,08,(1000 MT),71.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,054,Rough Production,08,(1000 MT),113.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,178,Total Distribution,08,(1000 MT),71.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,086,Total Supply,08,(1000 MT),71.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,113,TY Exports,08,(1000 MT),16.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1969,2019,02,184,Yield,26,(MT/HA),3.5300
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,004,Area Harvested,04,(1000 HA),39.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,125,Domestic Consumption,08,(1000 MT),60.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,088,Exports,08,(1000 MT),32.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,028,Production,08,(1000 MT),92.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,054,Rough Production,08,(1000 MT),146.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,178,Total Distribution,08,(1000 MT),92.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,086,Total Supply,08,(1000 MT),92.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,113,TY Exports,08,(1000 MT),32.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1970,2019,02,184,Yield,26,(MT/HA),3.7400
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,004,Area Harvested,04,(1000 HA),40.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,125,Domestic Consumption,08,(1000 MT),55.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,088,Exports,08,(1000 MT),31.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,028,Production,08,(1000 MT),86.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,054,Rough Production,08,(1000 MT),137.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,178,Total Distribution,08,(1000 MT),86.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,086,Total Supply,08,(1000 MT),86.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,113,TY Exports,08,(1000 MT),31.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1971,2006,07,184,Yield,26,(MT/HA),3.4300
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,004,Area Harvested,04,(1000 HA),37.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,125,Domestic Consumption,08,(1000 MT),33.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,088,Exports,08,(1000 MT),44.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,028,Production,08,(1000 MT),77.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,054,Rough Production,08,(1000 MT),122.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,178,Total Distribution,08,(1000 MT),77.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,086,Total Supply,08,(1000 MT),77.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,113,TY Exports,08,(1000 MT),44.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1972,2006,07,184,Yield,26,(MT/HA),3.3000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,004,Area Harvested,04,(1000 HA),45.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,125,Domestic Consumption,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,088,Exports,08,(1000 MT),41.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,028,Production,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,054,Rough Production,08,(1000 MT),163.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,178,Total Distribution,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,086,Total Supply,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,113,TY Exports,08,(1000 MT),41.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1973,2006,07,184,Yield,26,(MT/HA),3.6200
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,004,Area Harvested,04,(1000 HA),44.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,125,Domestic Consumption,08,(1000 MT),53.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,088,Exports,08,(1000 MT),49.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,028,Production,08,(1000 MT),102.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,054,Rough Production,08,(1000 MT),162.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,178,Total Distribution,08,(1000 MT),102.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,086,Total Supply,08,(1000 MT),102.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,113,TY Exports,08,(1000 MT),49.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1974,2006,07,184,Yield,26,(MT/HA),3.6800
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,004,Area Harvested,04,(1000 HA),48.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,125,Domestic Consumption,08,(1000 MT),53.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,088,Exports,08,(1000 MT),57.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,028,Production,08,(1000 MT),110.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,054,Rough Production,08,(1000 MT),175.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,178,Total Distribution,08,(1000 MT),110.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,086,Total Supply,08,(1000 MT),110.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,113,TY Exports,08,(1000 MT),57.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1975,2006,07,184,Yield,26,(MT/HA),3.6500
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,004,Area Harvested,04,(1000 HA),48.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,125,Domestic Consumption,08,(1000 MT),54.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,088,Exports,08,(1000 MT),55.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,028,Production,08,(1000 MT),109.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,054,Rough Production,08,(1000 MT),173.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,178,Total Distribution,08,(1000 MT),109.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,086,Total Supply,08,(1000 MT),109.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,113,TY Exports,08,(1000 MT),55.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1976,2006,07,184,Yield,26,(MT/HA),3.6000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,004,Area Harvested,04,(1000 HA),50.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,125,Domestic Consumption,08,(1000 MT),46.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,088,Exports,08,(1000 MT),82.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,028,Production,08,(1000 MT),128.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,054,Rough Production,08,(1000 MT),203.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,178,Total Distribution,08,(1000 MT),128.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,086,Total Supply,08,(1000 MT),128.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,113,TY Exports,08,(1000 MT),82.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1977,2006,07,184,Yield,26,(MT/HA),4.0600
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,004,Area Harvested,04,(1000 HA),55.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,125,Domestic Consumption,08,(1000 MT),44.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,088,Exports,08,(1000 MT),97.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,028,Production,08,(1000 MT),141.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,054,Rough Production,08,(1000 MT),224.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,178,Total Distribution,08,(1000 MT),141.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,086,Total Supply,08,(1000 MT),141.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,113,TY Exports,08,(1000 MT),97.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1978,2019,02,184,Yield,26,(MT/HA),4.0700
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,004,Area Harvested,04,(1000 HA),59.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,125,Domestic Consumption,08,(1000 MT),80.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,088,Exports,08,(1000 MT),69.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,028,Production,08,(1000 MT),149.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,054,Rough Production,08,(1000 MT),237.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,178,Total Distribution,08,(1000 MT),149.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,086,Total Supply,08,(1000 MT),149.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,113,TY Exports,08,(1000 MT),69.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1979,2006,07,184,Yield,26,(MT/HA),4.0200
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,004,Area Harvested,04,(1000 HA),65.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,125,Domestic Consumption,08,(1000 MT),80.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,088,Exports,08,(1000 MT),82.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,028,Production,08,(1000 MT),162.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,054,Rough Production,08,(1000 MT),257.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,178,Total Distribution,08,(1000 MT),162.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,086,Total Supply,08,(1000 MT),162.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,113,TY Exports,08,(1000 MT),82.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1980,2019,02,184,Yield,26,(MT/HA),3.9500
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,004,Area Harvested,04,(1000 HA),71.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,125,Domestic Consumption,08,(1000 MT),78.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,088,Exports,08,(1000 MT),99.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,028,Production,08,(1000 MT),177.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,054,Rough Production,08,(1000 MT),281.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,178,Total Distribution,08,(1000 MT),177.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,086,Total Supply,08,(1000 MT),177.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,113,TY Exports,08,(1000 MT),99.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1981,2019,02,184,Yield,26,(MT/HA),3.9600
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,004,Area Harvested,04,(1000 HA),73.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,125,Domestic Consumption,08,(1000 MT),59.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,088,Exports,08,(1000 MT),131.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,028,Production,08,(1000 MT),190.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,054,Rough Production,08,(1000 MT),302.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,178,Total Distribution,08,(1000 MT),190.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,086,Total Supply,08,(1000 MT),190.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,113,TY Exports,08,(1000 MT),131.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1982,2019,02,184,Yield,26,(MT/HA),4.1400
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,004,Area Harvested,04,(1000 HA),73.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,125,Domestic Consumption,08,(1000 MT),89.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,088,Exports,08,(1000 MT),80.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,028,Production,08,(1000 MT),169.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,054,Rough Production,08,(1000 MT),268.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,178,Total Distribution,08,(1000 MT),169.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,086,Total Supply,08,(1000 MT),169.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,113,TY Exports,08,(1000 MT),80.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1983,2019,02,184,Yield,26,(MT/HA),3.6700
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,004,Area Harvested,04,(1000 HA),75.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,125,Domestic Consumption,08,(1000 MT),79.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,088,Exports,08,(1000 MT),111.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,028,Production,08,(1000 MT),190.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,054,Rough Production,08,(1000 MT),302.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,178,Total Distribution,08,(1000 MT),190.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,086,Total Supply,08,(1000 MT),190.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,113,TY Exports,08,(1000 MT),111.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1984,2019,02,184,Yield,26,(MT/HA),4.0300
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,004,Area Harvested,04,(1000 HA),75.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,125,Domestic Consumption,08,(1000 MT),89.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,088,Exports,08,(1000 MT),99.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,028,Production,08,(1000 MT),188.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,054,Rough Production,08,(1000 MT),298.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,178,Total Distribution,08,(1000 MT),188.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,086,Total Supply,08,(1000 MT),188.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,113,TY Exports,08,(1000 MT),99.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1985,2006,07,184,Yield,26,(MT/HA),3.9700
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,004,Area Harvested,04,(1000 HA),75.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,125,Domestic Consumption,08,(1000 MT),76.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,088,Exports,08,(1000 MT),113.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,028,Production,08,(1000 MT),189.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,054,Rough Production,08,(1000 MT),300.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,178,Total Distribution,08,(1000 MT),189.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,086,Total Supply,08,(1000 MT),189.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,113,TY Exports,08,(1000 MT),113.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1986,2006,07,184,Yield,26,(MT/HA),4.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,004,Area Harvested,04,(1000 HA),71.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,125,Domestic Consumption,08,(1000 MT),93.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,088,Exports,08,(1000 MT),78.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,028,Production,08,(1000 MT),171.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,054,Rough Production,08,(1000 MT),271.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,178,Total Distribution,08,(1000 MT),171.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,086,Total Supply,08,(1000 MT),171.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,113,TY Exports,08,(1000 MT),78.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1987,2019,02,184,Yield,26,(MT/HA),3.8200
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,004,Area Harvested,04,(1000 HA),70.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,125,Domestic Consumption,08,(1000 MT),95.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,088,Exports,08,(1000 MT),72.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,028,Production,08,(1000 MT),167.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,054,Rough Production,08,(1000 MT),265.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,178,Total Distribution,08,(1000 MT),167.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,086,Total Supply,08,(1000 MT),167.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,113,TY Exports,08,(1000 MT),72.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1988,2019,02,184,Yield,26,(MT/HA),3.7900
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,004,Area Harvested,04,(1000 HA),70.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,125,Domestic Consumption,08,(1000 MT),101.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,088,Exports,08,(1000 MT),63.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,028,Production,08,(1000 MT),164.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,054,Rough Production,08,(1000 MT),260.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,178,Total Distribution,08,(1000 MT),164.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,086,Total Supply,08,(1000 MT),164.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,113,TY Exports,08,(1000 MT),63.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1989,2019,02,184,Yield,26,(MT/HA),3.7100
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,004,Area Harvested,04,(1000 HA),52.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,125,Domestic Consumption,08,(1000 MT),77.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,088,Exports,08,(1000 MT),46.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,028,Production,08,(1000 MT),123.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,054,Rough Production,08,(1000 MT),195.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,178,Total Distribution,08,(1000 MT),123.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,086,Total Supply,08,(1000 MT),123.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,113,TY Exports,08,(1000 MT),46.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1990,2006,07,184,Yield,26,(MT/HA),3.7500
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,004,Area Harvested,04,(1000 HA),60.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,125,Domestic Consumption,08,(1000 MT),65.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,088,Exports,08,(1000 MT),79.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,028,Production,08,(1000 MT),144.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,054,Rough Production,08,(1000 MT),229.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,178,Total Distribution,08,(1000 MT),144.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,086,Total Supply,08,(1000 MT),144.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,113,TY Exports,08,(1000 MT),79.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1991,2019,02,184,Yield,26,(MT/HA),3.8200
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,004,Area Harvested,04,(1000 HA),69.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,125,Domestic Consumption,08,(1000 MT),97.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,088,Exports,08,(1000 MT),67.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,028,Production,08,(1000 MT),164.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,054,Rough Production,08,(1000 MT),260.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,178,Total Distribution,08,(1000 MT),164.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,086,Total Supply,08,(1000 MT),164.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,113,TY Exports,08,(1000 MT),67.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1992,2006,07,184,Yield,26,(MT/HA),3.7700
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,004,Area Harvested,04,(1000 HA),59.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,125,Domestic Consumption,08,(1000 MT),57.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,088,Exports,08,(1000 MT),80.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,028,Production,08,(1000 MT),137.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,054,Rough Production,08,(1000 MT),217.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,178,Total Distribution,08,(1000 MT),137.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,086,Total Supply,08,(1000 MT),137.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,113,TY Exports,08,(1000 MT),80.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1993,2006,07,184,Yield,26,(MT/HA),3.6800
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,004,Area Harvested,04,(1000 HA),60.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,125,Domestic Consumption,08,(1000 MT),75.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,088,Exports,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,028,Production,08,(1000 MT),137.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,054,Rough Production,08,(1000 MT),217.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,178,Total Distribution,08,(1000 MT),137.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,086,Total Supply,08,(1000 MT),137.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,113,TY Exports,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1994,2019,02,184,Yield,26,(MT/HA),3.6200
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,004,Area Harvested,04,(1000 HA),61.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,125,Domestic Consumption,08,(1000 MT),71.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,088,Exports,08,(1000 MT),65.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,028,Production,08,(1000 MT),136.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,054,Rough Production,08,(1000 MT),216.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,178,Total Distribution,08,(1000 MT),136.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,086,Total Supply,08,(1000 MT),136.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,113,TY Exports,08,(1000 MT),65.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1995,2019,02,184,Yield,26,(MT/HA),3.5400
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,004,Area Harvested,04,(1000 HA),62.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,125,Domestic Consumption,08,(1000 MT),73.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,088,Exports,08,(1000 MT),71.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,028,Production,08,(1000 MT),144.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,054,Rough Production,08,(1000 MT),229.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,178,Total Distribution,08,(1000 MT),144.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,086,Total Supply,08,(1000 MT),144.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,113,TY Exports,08,(1000 MT),71.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1996,2019,02,184,Yield,26,(MT/HA),3.6900
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,004,Area Harvested,04,(1000 HA),53.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,125,Domestic Consumption,08,(1000 MT),82.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,088,Exports,08,(1000 MT),52.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,028,Production,08,(1000 MT),134.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,054,Rough Production,08,(1000 MT),213.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,178,Total Distribution,08,(1000 MT),134.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,086,Total Supply,08,(1000 MT),134.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,113,TY Exports,08,(1000 MT),52.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1997,2006,07,184,Yield,26,(MT/HA),4.0200
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,004,Area Harvested,04,(1000 HA),50.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,125,Domestic Consumption,08,(1000 MT),57.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,088,Exports,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,028,Production,08,(1000 MT),119.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,054,Rough Production,08,(1000 MT),189.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,178,Total Distribution,08,(1000 MT),119.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,086,Total Supply,08,(1000 MT),119.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,113,TY Exports,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1998,2019,02,184,Yield,26,(MT/HA),3.7800
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,004,Area Harvested,04,(1000 HA),48.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,125,Domestic Consumption,08,(1000 MT),77.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,088,Exports,08,(1000 MT),37.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,028,Production,08,(1000 MT),114.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,054,Rough Production,08,(1000 MT),181.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,178,Total Distribution,08,(1000 MT),114.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,086,Total Supply,08,(1000 MT),114.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,113,TY Exports,08,(1000 MT),37.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,1999,2019,02,184,Yield,26,(MT/HA),3.7700
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,004,Area Harvested,04,(1000 HA),42.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,125,Domestic Consumption,08,(1000 MT),61.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,088,Exports,08,(1000 MT),42.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,028,Production,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,054,Rough Production,08,(1000 MT),163.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,178,Total Distribution,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,086,Total Supply,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,113,TY Exports,08,(1000 MT),42.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2000,2018,05,184,Yield,26,(MT/HA),3.8800
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,004,Area Harvested,04,(1000 HA),51.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,125,Domestic Consumption,08,(1000 MT),63.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,088,Exports,08,(1000 MT),58.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,028,Production,08,(1000 MT),121.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,054,Rough Production,08,(1000 MT),192.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,178,Total Distribution,08,(1000 MT),121.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,086,Total Supply,08,(1000 MT),121.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,113,TY Exports,08,(1000 MT),58.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2001,2019,02,184,Yield,26,(MT/HA),3.7600
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,004,Area Harvested,04,(1000 HA),40.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,125,Domestic Consumption,08,(1000 MT),65.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,088,Exports,08,(1000 MT),34.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,028,Production,08,(1000 MT),99.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,054,Rough Production,08,(1000 MT),157.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,178,Total Distribution,08,(1000 MT),99.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,086,Total Supply,08,(1000 MT),99.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,113,TY Exports,08,(1000 MT),34.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2002,2018,05,184,Yield,26,(MT/HA),3.9300
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,004,Area Harvested,04,(1000 HA),52.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,125,Domestic Consumption,08,(1000 MT),79.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,088,Exports,08,(1000 MT),43.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,028,Production,08,(1000 MT),122.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,054,Rough Production,08,(1000 MT),194.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,178,Total Distribution,08,(1000 MT),122.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,086,Total Supply,08,(1000 MT),122.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,113,TY Exports,08,(1000 MT),43.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2003,2018,05,184,Yield,26,(MT/HA),3.7300
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,004,Area Harvested,04,(1000 HA),49.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,125,Domestic Consumption,08,(1000 MT),81.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,088,Exports,08,(1000 MT),29.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,028,Production,08,(1000 MT),110.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,054,Rough Production,08,(1000 MT),175.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,178,Total Distribution,08,(1000 MT),110.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,086,Total Supply,08,(1000 MT),110.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,113,TY Exports,08,(1000 MT),29.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2004,2018,05,184,Yield,26,(MT/HA),3.5700
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,004,Area Harvested,04,(1000 HA),46.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,125,Domestic Consumption,08,(1000 MT),66.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,088,Exports,08,(1000 MT),37.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,028,Production,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,054,Rough Production,08,(1000 MT),163.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,178,Total Distribution,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,086,Total Supply,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,113,TY Exports,08,(1000 MT),37.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2005,2019,02,184,Yield,26,(MT/HA),3.5400
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,004,Area Harvested,04,(1000 HA),44.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,125,Domestic Consumption,08,(1000 MT),67.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,088,Exports,08,(1000 MT),48.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,028,Production,08,(1000 MT),115.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,054,Rough Production,08,(1000 MT),183.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,178,Total Distribution,08,(1000 MT),115.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,086,Total Supply,08,(1000 MT),115.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,113,TY Exports,08,(1000 MT),48.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2006,2019,02,184,Yield,26,(MT/HA),4.1600
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,004,Area Harvested,04,(1000 HA),42.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,125,Domestic Consumption,08,(1000 MT),65.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,088,Exports,08,(1000 MT),48.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,028,Production,08,(1000 MT),113.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,054,Rough Production,08,(1000 MT),179.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,178,Total Distribution,08,(1000 MT),113.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,086,Total Supply,08,(1000 MT),113.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,113,TY Exports,08,(1000 MT),41.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2007,2019,02,184,Yield,26,(MT/HA),4.2600
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,004,Area Harvested,04,(1000 HA),44.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,125,Domestic Consumption,08,(1000 MT),74.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,088,Exports,08,(1000 MT),41.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,028,Production,08,(1000 MT),115.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,054,Rough Production,08,(1000 MT),183.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,178,Total Distribution,08,(1000 MT),115.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,086,Total Supply,08,(1000 MT),115.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,113,TY Exports,08,(1000 MT),42.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2008,2019,02,184,Yield,26,(MT/HA),4.1600
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,004,Area Harvested,04,(1000 HA),54.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,125,Domestic Consumption,08,(1000 MT),103.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,088,Exports,08,(1000 MT),42.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,028,Production,08,(1000 MT),145.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,054,Rough Production,08,(1000 MT),230.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,178,Total Distribution,08,(1000 MT),145.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,086,Total Supply,08,(1000 MT),145.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,113,TY Exports,08,(1000 MT),78.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,084,TY Imp. from U.S.,08,(1000 MT),1.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2009,2019,02,184,Yield,26,(MT/HA),4.2600
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,004,Area Harvested,04,(1000 HA),54.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,125,Domestic Consumption,08,(1000 MT),65.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,088,Exports,08,(1000 MT),78.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,028,Production,08,(1000 MT),143.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,054,Rough Production,08,(1000 MT),227.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,178,Total Distribution,08,(1000 MT),143.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,086,Total Supply,08,(1000 MT),143.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,113,TY Exports,08,(1000 MT),42.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2010,2019,02,184,Yield,26,(MT/HA),4.2000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,004,Area Harvested,04,(1000 HA),57.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,125,Domestic Consumption,08,(1000 MT),106.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,088,Exports,08,(1000 MT),42.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,028,Production,08,(1000 MT),148.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,054,Rough Production,08,(1000 MT),235.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,178,Total Distribution,08,(1000 MT),148.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,086,Total Supply,08,(1000 MT),148.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,113,TY Exports,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2011,2019,02,184,Yield,26,(MT/HA),4.1200
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,004,Area Harvested,04,(1000 HA),51.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,125,Domestic Consumption,08,(1000 MT),79.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,088,Exports,08,(1000 MT),62.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,028,Production,08,(1000 MT),141.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,054,Rough Production,08,(1000 MT),224.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,178,Total Distribution,08,(1000 MT),141.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,086,Total Supply,08,(1000 MT),141.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,113,TY Exports,08,(1000 MT),63.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2012,2019,02,184,Yield,26,(MT/HA),4.3900
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,004,Area Harvested,04,(1000 HA),58.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,125,Domestic Consumption,08,(1000 MT),102.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,088,Exports,08,(1000 MT),63.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,028,Production,08,(1000 MT),165.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,054,Rough Production,08,(1000 MT),262.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,178,Total Distribution,08,(1000 MT),165.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,086,Total Supply,08,(1000 MT),165.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,113,TY Exports,08,(1000 MT),87.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2013,2019,02,184,Yield,26,(MT/HA),4.5200
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,004,Area Harvested,04,(1000 HA),62.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,125,Domestic Consumption,08,(1000 MT),87.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,088,Exports,08,(1000 MT),87.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,028,Production,08,(1000 MT),174.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,054,Rough Production,08,(1000 MT),276.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,178,Total Distribution,08,(1000 MT),174.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,086,Total Supply,08,(1000 MT),174.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,113,TY Exports,08,(1000 MT),90.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2014,2019,02,184,Yield,26,(MT/HA),4.4500
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,004,Area Harvested,04,(1000 HA),59.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,125,Domestic Consumption,08,(1000 MT),79.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,088,Exports,08,(1000 MT),90.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,028,Production,08,(1000 MT),169.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,054,Rough Production,08,(1000 MT),268.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,178,Total Distribution,08,(1000 MT),169.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,086,Total Supply,08,(1000 MT),169.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,113,TY Exports,08,(1000 MT),109.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2015,2019,02,184,Yield,26,(MT/HA),4.5400
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,004,Area Harvested,04,(1000 HA),63.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,125,Domestic Consumption,08,(1000 MT),66.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,088,Exports,08,(1000 MT),109.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,028,Production,08,(1000 MT),175.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,054,Rough Production,08,(1000 MT),278.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,178,Total Distribution,08,(1000 MT),175.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,086,Total Supply,08,(1000 MT),175.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,113,TY Exports,08,(1000 MT),90.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2016,2019,02,184,Yield,26,(MT/HA),4.4100
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,004,Area Harvested,04,(1000 HA),59.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,125,Domestic Consumption,08,(1000 MT),92.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,088,Exports,08,(1000 MT),90.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,028,Production,08,(1000 MT),182.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,054,Rough Production,08,(1000 MT),289.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,178,Total Distribution,08,(1000 MT),182.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,086,Total Supply,08,(1000 MT),182.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,113,TY Exports,08,(1000 MT),95.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2017,2020,03,184,Yield,26,(MT/HA),4.9000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,004,Area Harvested,04,(1000 HA),56.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,125,Domestic Consumption,08,(1000 MT),78.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,088,Exports,08,(1000 MT),95.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,028,Production,08,(1000 MT),173.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,054,Rough Production,08,(1000 MT),275.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,178,Total Distribution,08,(1000 MT),173.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,086,Total Supply,08,(1000 MT),173.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,113,TY Exports,08,(1000 MT),100.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2018,2020,03,184,Yield,26,(MT/HA),4.9100
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,004,Area Harvested,04,(1000 HA),60.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,125,Domestic Consumption,08,(1000 MT),80.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,088,Exports,08,(1000 MT),100.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,028,Production,08,(1000 MT),180.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,054,Rough Production,08,(1000 MT),286.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,178,Total Distribution,08,(1000 MT),180.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,086,Total Supply,08,(1000 MT),180.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,113,TY Exports,08,(1000 MT),100.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2019,2020,04,184,Yield,26,(MT/HA),4.7700
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,004,Area Harvested,04,(1000 HA),58.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,125,Domestic Consumption,08,(1000 MT),78.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,088,Exports,08,(1000 MT),105.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,028,Production,08,(1000 MT),183.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,054,Rough Production,08,(1000 MT),290.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,178,Total Distribution,08,(1000 MT),183.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,086,Total Supply,08,(1000 MT),183.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,113,TY Exports,08,(1000 MT),105.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2020,2021,04,184,Yield,26,(MT/HA),5.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,004,Area Harvested,04,(1000 HA),60.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,020,Beginning Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,125,Domestic Consumption,08,(1000 MT),80.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,176,Ending Stocks,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,088,Exports,08,(1000 MT),110.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,057,Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,182,Milling Rate (.9999),08,(1000 MT),6300.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,028,Production,08,(1000 MT),190.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,054,Rough Production,08,(1000 MT),302.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,178,Total Distribution,08,(1000 MT),190.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,086,Total Supply,08,(1000 MT),190.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,113,TY Exports,08,(1000 MT),110.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,084,TY Imp. from U.S.,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,081,TY Imports,08,(1000 MT),0.0000
+0422110,"Rice, Milled",NS,Suriname,2021,2021,11,184,Yield,26,(MT/HA),5.0300
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,043,Cane Sugar Production,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,176,Ending Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,088,Exports,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,139,Human Dom. Consumption,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,028,Production,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,089,Raw Exports,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,126,Total Disappearance,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,178,Total Distribution,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1960,1959,00,086,Total Supply,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,020,Beginning Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,043,Cane Sugar Production,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,088,Exports,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,139,Human Dom. Consumption,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,028,Production,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,089,Raw Exports,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,126,Total Disappearance,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,178,Total Distribution,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1961,1960,00,086,Total Supply,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,043,Cane Sugar Production,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,088,Exports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,139,Human Dom. Consumption,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,028,Production,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,089,Raw Exports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,126,Total Disappearance,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,178,Total Distribution,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1962,1961,00,086,Total Supply,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,043,Cane Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,139,Human Dom. Consumption,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,028,Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,126,Total Disappearance,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,178,Total Distribution,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1963,1962,00,086,Total Supply,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,043,Cane Sugar Production,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,088,Exports,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,139,Human Dom. Consumption,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,028,Production,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,089,Raw Exports,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,126,Total Disappearance,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,178,Total Distribution,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1964,1963,00,086,Total Supply,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,043,Cane Sugar Production,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,176,Ending Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,088,Exports,08,(1000 MT),7.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,139,Human Dom. Consumption,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,028,Production,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,089,Raw Exports,08,(1000 MT),7.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,126,Total Disappearance,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,178,Total Distribution,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1965,1964,00,086,Total Supply,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,020,Beginning Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,043,Cane Sugar Production,08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,176,Ending Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,088,Exports,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,139,Human Dom. Consumption,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,028,Production,08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,089,Raw Exports,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,126,Total Disappearance,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,178,Total Distribution,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1966,1965,00,086,Total Supply,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,020,Beginning Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,043,Cane Sugar Production,08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,176,Ending Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,088,Exports,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,139,Human Dom. Consumption,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,028,Production,08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,089,Raw Exports,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,126,Total Disappearance,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,178,Total Distribution,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1967,1966,00,086,Total Supply,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,020,Beginning Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,043,Cane Sugar Production,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,088,Exports,08,(1000 MT),7.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,139,Human Dom. Consumption,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,028,Production,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,089,Raw Exports,08,(1000 MT),7.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,126,Total Disappearance,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,178,Total Distribution,08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1968,1967,00,086,Total Supply,08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,043,Cane Sugar Production,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,088,Exports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,139,Human Dom. Consumption,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,028,Production,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,089,Raw Exports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,126,Total Disappearance,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,178,Total Distribution,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1969,1968,00,086,Total Supply,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,043,Cane Sugar Production,08,(1000 MT),15.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,088,Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,028,Production,08,(1000 MT),15.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,089,Raw Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,178,Total Distribution,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1970,1969,00,086,Total Supply,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,043,Cane Sugar Production,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,088,Exports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,028,Production,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,089,Raw Exports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,178,Total Distribution,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1971,1970,00,086,Total Supply,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,043,Cane Sugar Production,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,088,Exports,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,139,Human Dom. Consumption,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,057,Imports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,028,Production,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,089,Raw Exports,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,064,Raw Imports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,126,Total Disappearance,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,178,Total Distribution,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1972,1971,00,086,Total Supply,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,043,Cane Sugar Production,08,(1000 MT),9.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,088,Exports,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,139,Human Dom. Consumption,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,057,Imports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,028,Production,08,(1000 MT),9.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,089,Raw Exports,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,064,Raw Imports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,126,Total Disappearance,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,178,Total Distribution,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1973,1972,00,086,Total Supply,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,043,Cane Sugar Production,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,176,Ending Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,088,Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,139,Human Dom. Consumption,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,057,Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,028,Production,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,089,Raw Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,064,Raw Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,126,Total Disappearance,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,178,Total Distribution,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1974,1973,00,086,Total Supply,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,020,Beginning Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,043,Cane Sugar Production,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,139,Human Dom. Consumption,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,028,Production,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,126,Total Disappearance,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,178,Total Distribution,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1975,1974,00,086,Total Supply,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,043,Cane Sugar Production,08,(1000 MT),9.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,139,Human Dom. Consumption,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,057,Imports,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,028,Production,08,(1000 MT),9.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,064,Raw Imports,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,126,Total Disappearance,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,178,Total Distribution,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1976,1975,00,086,Total Supply,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,043,Cane Sugar Production,08,(1000 MT),7.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,176,Ending Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,139,Human Dom. Consumption,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,057,Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,028,Production,08,(1000 MT),7.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,064,Raw Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,126,Total Disappearance,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,178,Total Distribution,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1977,1976,00,086,Total Supply,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,020,Beginning Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,043,Cane Sugar Production,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,139,Human Dom. Consumption,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,057,Imports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,028,Production,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,064,Raw Imports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,126,Total Disappearance,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,178,Total Distribution,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1978,1977,00,086,Total Supply,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,043,Cane Sugar Production,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,088,Exports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,057,Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,028,Production,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,089,Raw Exports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,064,Raw Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,178,Total Distribution,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1979,1978,00,086,Total Supply,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,043,Cane Sugar Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,088,Exports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,057,Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,028,Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,089,Raw Exports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,064,Raw Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,178,Total Distribution,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1980,1979,00,086,Total Supply,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,043,Cane Sugar Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,088,Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,057,Imports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,028,Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,089,Raw Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,064,Raw Imports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,178,Total Distribution,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1981,1980,00,086,Total Supply,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,043,Cane Sugar Production,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,088,Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,139,Human Dom. Consumption,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,057,Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,028,Production,08,(1000 MT),8.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,089,Raw Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,064,Raw Imports,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,126,Total Disappearance,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,178,Total Distribution,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1982,1981,00,086,Total Supply,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,043,Cane Sugar Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,176,Ending Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,088,Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,139,Human Dom. Consumption,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,057,Imports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,028,Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,089,Raw Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,064,Raw Imports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,126,Total Disappearance,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,178,Total Distribution,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1983,1982,00,086,Total Supply,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,020,Beginning Stocks,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,043,Cane Sugar Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,088,Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,139,Human Dom. Consumption,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,057,Imports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,028,Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,089,Raw Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,064,Raw Imports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,126,Total Disappearance,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,178,Total Distribution,08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1984,1983,00,086,Total Supply,08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,043,Cane Sugar Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,088,Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,139,Human Dom. Consumption,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,057,Imports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,028,Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,089,Raw Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,064,Raw Imports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,126,Total Disappearance,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,178,Total Distribution,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1985,1984,00,086,Total Supply,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,043,Cane Sugar Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,088,Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,139,Human Dom. Consumption,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,057,Imports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,028,Production,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,089,Raw Exports,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,064,Raw Imports,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,126,Total Disappearance,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,178,Total Distribution,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1986,1985,00,086,Total Supply,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,043,Cane Sugar Production,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,139,Human Dom. Consumption,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,057,Imports,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,028,Production,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,064,Raw Imports,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,126,Total Disappearance,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,178,Total Distribution,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1987,1986,00,086,Total Supply,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,139,Human Dom. Consumption,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,057,Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,064,Raw Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,126,Total Disappearance,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,178,Total Distribution,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1988,1987,00,086,Total Supply,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,057,Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,064,Raw Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,178,Total Distribution,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1989,1988,00,086,Total Supply,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,139,Human Dom. Consumption,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,057,Imports,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,064,Raw Imports,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,126,Total Disappearance,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,178,Total Distribution,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1990,1989,00,086,Total Supply,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,139,Human Dom. Consumption,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,057,Imports,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,064,Raw Imports,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,126,Total Disappearance,08,(1000 MT),11.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,178,Total Distribution,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1991,1990,00,086,Total Supply,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,139,Human Dom. Consumption,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,057,Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,064,Raw Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,126,Total Disappearance,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,178,Total Distribution,08,(1000 MT),15.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1992,1991,00,086,Total Supply,08,(1000 MT),15.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,057,Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,064,Raw Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,178,Total Distribution,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1993,1992,00,086,Total Supply,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,057,Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,064,Raw Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,178,Total Distribution,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1994,1993,00,086,Total Supply,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,057,Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,064,Raw Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,178,Total Distribution,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1995,1994,00,086,Total Supply,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,057,Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,064,Raw Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,178,Total Distribution,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1996,1995,00,086,Total Supply,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,139,Human Dom. Consumption,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,057,Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,064,Raw Imports,08,(1000 MT),12.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,126,Total Disappearance,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,178,Total Distribution,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1997,1996,00,086,Total Supply,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,139,Human Dom. Consumption,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,057,Imports,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,064,Raw Imports,08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,126,Total Disappearance,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,178,Total Distribution,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1998,1997,00,086,Total Supply,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,139,Human Dom. Consumption,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,057,Imports,08,(1000 MT),15.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,064,Raw Imports,08,(1000 MT),15.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,126,Total Disappearance,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,178,Total Distribution,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,1999,1998,00,086,Total Supply,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,139,Human Dom. Consumption,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,057,Imports,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,064,Raw Imports,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,126,Total Disappearance,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,178,Total Distribution,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2000,1999,00,086,Total Supply,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,176,Ending Stocks,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,139,Human Dom. Consumption,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,057,Imports,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,064,Raw Imports,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,126,Total Disappearance,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,178,Total Distribution,08,(1000 MT),21.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2001,2000,00,086,Total Supply,08,(1000 MT),21.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,020,Beginning Stocks,08,(1000 MT),5.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,176,Ending Stocks,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,139,Human Dom. Consumption,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,057,Imports,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,064,Raw Imports,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,126,Total Disappearance,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,178,Total Distribution,08,(1000 MT),22.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2002,2001,00,086,Total Supply,08,(1000 MT),22.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,020,Beginning Stocks,08,(1000 MT),6.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,139,Human Dom. Consumption,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,057,Imports,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,064,Raw Imports,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,126,Total Disappearance,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,178,Total Distribution,08,(1000 MT),21.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2003,2002,00,086,Total Supply,08,(1000 MT),21.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,139,Human Dom. Consumption,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,057,Imports,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,064,Raw Imports,08,(1000 MT),14.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,126,Total Disappearance,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,178,Total Distribution,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2004,2003,00,086,Total Supply,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,139,Human Dom. Consumption,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,057,Imports,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,064,Raw Imports,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,126,Total Disappearance,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,178,Total Distribution,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2005,2006,05,086,Total Supply,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,043,Cane Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,176,Ending Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,139,Human Dom. Consumption,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,057,Imports,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,028,Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,064,Raw Imports,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,126,Total Disappearance,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,178,Total Distribution,08,(1000 MT),22.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2006,2006,05,086,Total Supply,08,(1000 MT),22.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,020,Beginning Stocks,08,(1000 MT),2.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,139,Human Dom. Consumption,08,(1000 MT),23.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,057,Imports,08,(1000 MT),23.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,064,Raw Imports,08,(1000 MT),23.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,126,Total Disappearance,08,(1000 MT),23.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,178,Total Distribution,08,(1000 MT),26.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2007,2007,05,086,Total Supply,08,(1000 MT),26.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,139,Human Dom. Consumption,08,(1000 MT),25.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,057,Imports,08,(1000 MT),25.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,064,Raw Imports,08,(1000 MT),25.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,126,Total Disappearance,08,(1000 MT),25.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,178,Total Distribution,08,(1000 MT),29.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2008,2007,11,086,Total Supply,08,(1000 MT),29.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,139,Human Dom. Consumption,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,057,Imports,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,074,Refined Imp.(Raw Val),08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,126,Total Disappearance,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,178,Total Distribution,08,(1000 MT),24.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2009,2014,05,086,Total Supply,08,(1000 MT),24.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,139,Human Dom. Consumption,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,057,Imports,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,074,Refined Imp.(Raw Val),08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,126,Total Disappearance,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,178,Total Distribution,08,(1000 MT),24.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2010,2014,05,086,Total Supply,08,(1000 MT),24.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,139,Human Dom. Consumption,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,057,Imports,08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,074,Refined Imp.(Raw Val),08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,126,Total Disappearance,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,178,Total Distribution,08,(1000 MT),23.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2011,2014,05,086,Total Supply,08,(1000 MT),23.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,139,Human Dom. Consumption,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,057,Imports,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,074,Refined Imp.(Raw Val),08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,126,Total Disappearance,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,178,Total Distribution,08,(1000 MT),24.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2012,2014,05,086,Total Supply,08,(1000 MT),24.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,176,Ending Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,139,Human Dom. Consumption,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,057,Imports,08,(1000 MT),15.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,074,Refined Imp.(Raw Val),08,(1000 MT),15.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,126,Total Disappearance,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,178,Total Distribution,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2013,2014,05,086,Total Supply,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,020,Beginning Stocks,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,139,Human Dom. Consumption,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,057,Imports,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,064,Raw Imports,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,074,Refined Imp.(Raw Val),08,(1000 MT),18.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,126,Total Disappearance,08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,178,Total Distribution,08,(1000 MT),23.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2014,2016,05,086,Total Supply,08,(1000 MT),23.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,139,Human Dom. Consumption,08,(1000 MT),21.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,057,Imports,08,(1000 MT),20.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,064,Raw Imports,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,074,Refined Imp.(Raw Val),08,(1000 MT),19.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,126,Total Disappearance,08,(1000 MT),21.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,178,Total Distribution,08,(1000 MT),25.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2015,2016,05,086,Total Supply,08,(1000 MT),25.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,176,Ending Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,139,Human Dom. Consumption,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,057,Imports,08,(1000 MT),16.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,064,Raw Imports,08,(1000 MT),3.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,074,Refined Imp.(Raw Val),08,(1000 MT),13.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,126,Total Disappearance,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,178,Total Distribution,08,(1000 MT),21.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2016,2016,11,086,Total Supply,08,(1000 MT),21.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,020,Beginning Stocks,08,(1000 MT),4.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,043,Cane Sugar Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,139,Human Dom. Consumption,08,(1000 MT),22.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,057,Imports,08,(1000 MT),17.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,028,Production,08,(1000 MT),1.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,064,Raw Imports,08,(1000 MT),10.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,074,Refined Imp.(Raw Val),08,(1000 MT),7.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,126,Total Disappearance,08,(1000 MT),22.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,178,Total Distribution,08,(1000 MT),22.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2017,2017,11,086,Total Supply,08,(1000 MT),22.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,043,Cane Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,139,Human Dom. Consumption,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,028,Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,126,Total Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,178,Total Distribution,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2018,2017,11,086,Total Supply,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,043,Cane Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,139,Human Dom. Consumption,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,028,Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,126,Total Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,178,Total Distribution,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2019,2018,11,086,Total Supply,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,043,Cane Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,139,Human Dom. Consumption,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,028,Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,126,Total Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,178,Total Distribution,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2020,2019,11,086,Total Supply,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,043,Cane Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,139,Human Dom. Consumption,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,028,Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,126,Total Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,178,Total Distribution,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2021,2020,11,086,Total Supply,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,030,Beet Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,020,Beginning Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,043,Cane Sugar Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,176,Ending Stocks,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,088,Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,139,Human Dom. Consumption,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,057,Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,151,Other Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,028,Production,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,089,Raw Exports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,064,Raw Imports,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,099,Refined Exp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,074,Refined Imp.(Raw Val),08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,126,Total Disappearance,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,178,Total Distribution,08,(1000 MT),0.0000
+0612000,"Sugar, Centrifugal",NS,Suriname,2022,2021,11,086,Total Supply,08,(1000 MT),0.0000
