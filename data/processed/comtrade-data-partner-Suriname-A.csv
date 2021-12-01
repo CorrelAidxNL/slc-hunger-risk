@@ -1,0 +1,165 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+H3,2011,2011,2011,4,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,24780,,24780.0,,15923,,,0
+H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,3900,,3900.0,,8071,,,0
+H3,2011,2011,2011,4,0,1,Import,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1225,,1225.0,,1277,,,0
+H3,2011,2011,2011,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,4324422,,4324422.0,,2473395,,,0
+H3,2011,2011,2011,4,0,1,Import,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,3312764,,3312764.0,,1908980,,,0
+H3,2011,2011,2011,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,733200,,733200.0,,158967,,,0
+H3,2011,2011,2011,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,26291995,,26291995.0,,20033625,,,0
+H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1000,,1000.0,,931,,,0
+H3,2011,2011,2011,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,5216916,,5216916.0,,2736170,,,0
+H3,2011,2011,2011,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,5898,,5898.0,,15035,,,0
+H3,2011,2011,2011,4,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,140406,,140406.0,,142658,,,0
+H3,2011,2011,2011,4,0,1,Import,540,New Caledonia,NCL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,602,,602.0,,969,,,0
+H3,2011,2011,2011,4,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,931169,,931169.0,,609667,,,0
+H3,2011,2011,2011,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,7311720,,7311720.0,,3949407,,,0
+H3,2011,2011,2011,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,158866,,158866.0,,187151,,,0
+H3,2011,2011,2011,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,590987,,590987.0,,423878,,,0
+H3,2011,2011,2011,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,123488,,123488.0,,50118,,,0
+H3,2011,2011,2011,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,247198,,247198.0,,277234,,,0
+H4,2012,2012,2012,4,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,123640,,123640.0,,71580,,,0
+H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5400,,5400.0,,10218,,,0
+H4,2012,2012,2012,4,0,1,Import,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,25,,25.0,,22,,,0
+H4,2012,2012,2012,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,50,,50.0,,68,,,0
+H4,2012,2012,2012,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5452568,,5452568.0,,3222192,,,0
+H4,2012,2012,2012,4,0,1,Import,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1494900,,1494900.0,,817892,,,0
+H4,2012,2012,2012,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1978212,,1978212.0,,1240547,,,0
+H4,2012,2012,2012,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,13339,,13339.0,,27527,,,0
+H4,2012,2012,2012,4,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,65880,,65880.0,,47093,,,0
+H4,2012,2012,2012,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,8517860,,8517860.0,,5114248,,,0
+H4,2012,2012,2012,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,159334,,159334.0,,179402,,,0
+H4,2012,2012,2012,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,125000,,125000.0,,77714,,,0
+H4,2012,2012,2012,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,428912,,428912.0,,485269,,,0
+H3,2012,2012,2012,4,0,1,Import,231,Ethiopia,ETH,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,480000,,480000.0,,455257,,,0
+H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1750744,,1750744.0,,626213,,,0
+H3,2012,2012,2012,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,45242650,,45242650.0,,30283802,,,0
+H3,2012,2012,2012,4,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,210572,,210572.0,,220923,,,0
+H3,2012,2012,2012,4,0,1,Import,540,New Caledonia,NCL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,5236,,5236.0,,9282,,,0
+H3,2012,2012,2012,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,7180,,7180.0,,8682,,,0
+H3,2012,2012,2012,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,691731,,691731.0,,554423,,,0
+H3,2012,2012,2012,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,950,,950.0,,1422,,,0
+H4,2014,2014,2014,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5244700,,5244700.0,,2926878,,,0
+H4,2014,2014,2014,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,39516254,,39516254.0,,23877487,,,0
+H4,2014,2014,2014,4,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1,,1.0,,2610,,,6
+H4,2014,2014,2014,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,50695,,50695.0,,103465,,,0
+H4,2014,2014,2014,4,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,415594,,415594.0,,433043,,,0
+H4,2014,2014,2014,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,15372096,,15372096.0,,8003096,,,0
+H4,2014,2014,2014,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,7960,,7960.0,,11794,,,0
+H4,2014,2014,2014,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,265773,,265773.0,,289574,,,0
+H4,2014,2014,2014,4,0,1,Import,804,Ukraine,UKR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,310,,310.0,,615,,,0
+H4,2014,2014,2014,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,409000,,409000.0,,157873,,,0
+H4,2014,2014,2014,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,6534,,6534.0,,12607,,,0
+H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1558240,,1558240.0,,364142,,,0
+H3,2014,2014,2014,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,13598,,13598.0,,7854,,,0
+H3,2014,2014,2014,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,390452,,390452.0,,294590,,,0
+H3,2014,2014,2014,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,10635,,10635.0,,36247,,,0
+H3,2014,2014,2014,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,5507,,5507.0,,25212,,,0
+H4,2015,2015,2015,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,420,,420.0,,509,,,0
+H4,2015,2015,2015,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,20,,20.0,,96,,,0
+H4,2015,2015,2015,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,4635728,,4635728.0,,2373402,,,0
+H4,2015,2015,2015,4,0,1,Import,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2,,2.0,,73,,,0
+H4,2015,2015,2015,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,40325377,,40325377.0,,20101337,,,0
+H4,2015,2015,2015,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1078460,,1078460.0,,353422,,,0
+H4,2015,2015,2015,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,18786,,18786.0,,32819,,,0
+H4,2015,2015,2015,4,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,469558,,469558.0,,480431,,,0
+H4,2015,2015,2015,4,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,90,,90.0,,139,,,0
+H4,2015,2015,2015,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,20920,,20920.0,,11428,,,0
+H4,2015,2015,2015,4,0,1,Import,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,150,,150.0,,179,,,0
+H4,2015,2015,2015,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,237676,,237676.0,,232616,,,0
+H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1181129,,1181129.0,,351140,,,0
+H3,2015,2015,2015,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,503507,,503507.0,,272622,,,0
+H3,2015,2015,2015,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,6,,6.0,,15,,,0
+H3,2015,2015,2015,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,6,,6.0,,15,,,0
+H4,2016,2016,2016,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1979,,1979.0,,2655,,,0
+H4,2016,2016,2016,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,6068851,,6068851.0,,2741340,,,0
+H4,2016,2016,2016,4,0,1,Import,381,Italy,ITA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,4800000,,4800000.0,,1648576,,,0
+H4,2016,2016,2016,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,40460892,,40460892.0,,16233307,,,0
+H4,2016,2016,2016,4,0,1,Import,454,Malawi,MWI,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,26,,26.0,,139,,,0
+H4,2016,2016,2016,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2150060,,2150060.0,,617434,,,0
+H4,2016,2016,2016,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,11584,,11584.0,,17115,,,0
+H4,2016,2016,2016,4,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,337544,,337544.0,,327938,,,0
+H4,2016,2016,2016,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,10770900,,10770900.0,,3816421,,,0
+H4,2016,2016,2016,4,0,1,Import,688,Serbia,SRB,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,48000,,48000.0,,36153,,,0
+H4,2016,2016,2016,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,23600,,23600.0,,18997,,,0
+H4,2016,2016,2016,4,0,1,Import,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,20,,20.0,,24,,,0
+H4,2016,2016,2016,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,165917,,165917.0,,137376,,,0
+H4,2016,2016,2016,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,360,,360.0,,705,,,0
+H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,55,,55.0,,176,,,0
+H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,335546,,335546.0,,150839,,,0
+H5,2017,2017,2017,4,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,471512,,471512.0,,172406,,,0
+H5,2017,2017,2017,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2645,,2645.0,,4346,,,0
+H5,2017,2017,2017,4,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,13164220,,13164220.0,,5901500,,,0
+H5,2017,2017,2017,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5145761,,5145761.0,,2301916,,,0
+H5,2017,2017,2017,4,0,1,Import,381,Italy,ITA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2175000,,2175000.0,,710036,,,0
+H5,2017,2017,2017,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,699589,,699589.0,,264424,,,0
+H5,2017,2017,2017,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5323,,5323.0,,7051,,,0
+H5,2017,2017,2017,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,3329380,,3329380.0,,1171112,,,0
+H5,2017,2017,2017,4,0,1,Import,688,Serbia,SRB,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,48000,,48000.0,,33343,,,0
+H5,2017,2017,2017,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5416,,5416.0,,3934,,,0
+H5,2017,2017,2017,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,190846,,190846.0,,164599,,,0
+H5,2017,2017,2017,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,250000,,250000.0,,81751,,,0
+H4,2017,2017,2017,4,0,1,Import,384,Côte d'Ivoire,CIV,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,45599,,45599.0,,29222,,,0
+H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,33886775,,33886775.0,,14699827,,,0
+H4,2017,2017,2017,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,24930,,24930.0,,16839,,,0
+H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1076,,1076.0,,950,,,0
+H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,24000,,24000.0,,10232,,,0
+H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,77801,,77801.0,,79501,,,6
+H5,2018,2018,2018,4,0,1,Import,24,Angola,AGO,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5750,,5750.0,,10843,,,0
+H5,2018,2018,2018,4,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1350162,,1350162.0,,453419,,,0
+H5,2018,2018,2018,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2476,,2476.0,,4567,,,0
+H5,2018,2018,2018,4,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2550000,,2550000.0,,1210670,,,0
+H5,2018,2018,2018,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2883706,,2883706.0,,2696706,,,6
+H5,2018,2018,2018,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1202,,1202.0,,1131,,,6
+H5,2018,2018,2018,4,0,1,Import,300,Greece,GRC,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,450000,,450000.0,,164131,,,0
+H5,2018,2018,2018,4,0,1,Import,381,Italy,ITA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1250000,,1250000.0,,440305,,,0
+H5,2018,2018,2018,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,35510420,,35510420.0,,15803815,,,0
+H5,2018,2018,2018,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,3391698,,3391698.0,,1261198,,,0
+H5,2018,2018,2018,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,8145,,8145.0,,12335,,,0
+H5,2018,2018,2018,4,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,200000,,200000.0,,83800,,,0
+H5,2018,2018,2018,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,10927131,,10927131.0,,4346436,,,0
+H5,2018,2018,2018,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2565,,2565.0,,3656,,,0
+H5,2018,2018,2018,4,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,3825000,,3825000.0,,1386245,,,0
+H5,2018,2018,2018,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,189170,,189170.0,,214827,,,0
+H5,2018,2018,2018,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,658410,,658410.0,,215728,,,0
+H4,2018,2018,2018,4,0,1,Import,498,Rep. of Moldova,MDA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,98850,,98850.0,,50776,,,0
+H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1092,,1092.0,,871,,,0
+H3,2018,2018,2018,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,233000,,233000.0,,115480,,,0
+H2,2018,2018,2018,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,24040,,24040.0,,13125,,,0
+H5,2019,2019,2019,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,48636,,48636.0,,33040,,,0
+H5,2019,2019,2019,4,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,86467,,86467.0,,28667,,,0
+H5,2019,2019,2019,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,3026,,3026.0,,4538,,,0
+H5,2019,2019,2019,4,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2400000,,2400000.0,,1025245,,,0
+H5,2019,2019,2019,4,0,1,Import,191,Croatia,HRV,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,50040,,50040.0,,26622,,,0
+H5,2019,2019,2019,4,0,1,Import,203,Czechia,CZE,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,125100,,125100.0,,69718,,,0
+H5,2019,2019,2019,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,4964541,,4964541.0,,2387418,,,0
+H5,2019,2019,2019,4,0,1,Import,288,Ghana,GHA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,25055,,25055.0,,7407,,,0
+H5,2019,2019,2019,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,247500,,247500.0,,133595,,,0
+H5,2019,2019,2019,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,44260383,,44260383.0,,18943902,,,0
+H5,2019,2019,2019,4,0,1,Import,440,Lithuania,LTU,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,50040,,50040.0,,26005,,,0
+H5,2019,2019,2019,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,3737576,,3737576.0,,1499423,,,0
+H5,2019,2019,2019,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,13122,,13122.0,,23542,,,0
+H5,2019,2019,2019,4,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,419524,,419524.0,,276391,,,0
+H5,2019,2019,2019,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,17437940,,17437940.0,,7015631,,,0
+H5,2019,2019,2019,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,9900,,9900.0,,9150,,,0
+H5,2019,2019,2019,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,209905,,209905.0,,206958,,,6
+H5,2019,2019,2019,4,0,1,Import,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,21810,,21810.0,,9616,,,0
+H5,2019,2019,2019,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,250000,,250000.0,,81853,,,0
+H5,2020,2020,2020,4,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1050000,,1050000.0,,373272,,,0
+H5,2020,2020,2020,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2284,,2284.0,,3537,,,0
+H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,6130000,,6130000.0,,2851039,,,0
+H5,2020,2020,2020,4,0,1,Import,100,Bulgaria,BGR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,69000,,69000.0,,39340,,,0
+H5,2020,2020,2020,4,0,1,Import,203,Czechia,CZE,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,125100,,125100.0,,78717,,,0
+H5,2020,2020,2020,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5654956,,5654956.0,,3151389,,,0
+H5,2020,2020,2020,4,0,1,Import,300,Greece,GRC,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,150000,,150000.0,,90538,,,0
+H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,150000,,150000.0,,80099,,,0
+H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,740,Suriname,SUR,,,,,,,,1006,Rice,1,No Quantity,,,0,,,,21262,,,6
+H5,2020,2020,2020,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,6076325,,6076325.0,,2574975,,,0
+H5,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,13533,,13533.0,,25914,,,0
+H5,2020,2020,2020,4,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,125000,,125000.0,,74375,,,0
+H5,2020,2020,2020,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,22395690,,22395690.0,,9657248,,,0
+H5,2020,2020,2020,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,12950,,12950.0,,14982,,,0
+H5,2020,2020,2020,4,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,25000,,25000.0,,15650,,,0
+H5,2020,2020,2020,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,126551,,126551.0,,150293,,,0
+H5,2020,2020,2020,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2700,,2700.0,,2237,,,0
+H5,2020,2020,2020,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,102679,,102679.0,,115000,,,0
+H5,2020,2020,2020,4,0,3,Re-Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,102679,,102679.0,,115000,,,0
