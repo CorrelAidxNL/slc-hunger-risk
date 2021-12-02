@@ -45,7 +45,7 @@ if not dest.exists():
     dfs = []
     for filename in fao_filenames:
         file = data_dir("raw", "fao", filename + ".csv")
-        with pd.read_csv(file, chunksize=1e6, encoding="latin-1", dtype="string") as reader:
+        with pd.read_csv(file, chunksize=1e6, encoding="latin-1", dtype=str) as reader:
             for df in reader:
                 area_filter = (df["Area"] == country) if "Area" in df.columns else False
                 reporter_partner_filter =  (((df["Reporter Countries"] == country ) | (df["Partner Countries"] == country)) 
@@ -58,32 +58,8 @@ if not dest.exists():
     df.to_csv(data_dir("processed", f"fao-data-{country}.csv"), index=False)
 
 
-dtype = {
-    "Area Code": "Int64", 
-    "Item Code": "Int64", 
-    "Months Code": "Int64", 
-    "Year Code": "Int64", 
-    "Element Code": "Int64", 
-    "Reporter Country Code": "Int64",
-    "Partner Country Code": "Int64",
-    "Area": "string",
-    "Item": "string",
-    "Months": "string",
-    "Year": "string",
-    "Unit": "string",
-    "Flag": "string",
-    "Note": "string",
-    "Element": "string",
-    "Reporter Countries": "string",
-    "Partner Countries": "string",
-    "Value": "string",
-}
 
-df = pd.read_csv(dest, dtype=dtype)
 
-df = df[df.duplicated(keep='last')]
-
-print(df["Element"].unique())
 
 
 ## USDA PSD
@@ -114,7 +90,7 @@ if not dest.exists():
     dfs = []
     for filename in usda_filenames:
         file = data_dir("raw", "usda", filename + ".csv")
-        with pd.read_csv(file, chunksize=1e6, encoding="latin-1", dtype="string") as reader:
+        with pd.read_csv(file, chunksize=1e6, encoding="latin-1", dtype=str) as reader:
             for df in reader:
                 df = df[df["Country_Name"] == country]
                 dfs.append(df)
