@@ -6,6 +6,11 @@ library(dplyr)
 library(scales)
 library(tidyr)
 
+# Original data source two pdfs: Price Indices September 2021 & January 2020
+# https://statistics-suriname.org/wp-content/uploads/2020/02/WEP-CPI-0120.pdf
+# https://statistics-suriname.org/wp-content/uploads/2021/10/CPI-0921.pdf
+# Converted to CSV
+
 # Load CSV data retrieved from CPI pdfs of Statistics bureau suriname (ABS)
 tpi <- read.csv(file = "slc-hunger-risk/data/processed/ABS_Sur_TransportPriceIndex_data.csv",
                   sep = ",",
