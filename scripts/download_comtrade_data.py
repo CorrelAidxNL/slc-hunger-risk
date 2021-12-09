@@ -9,7 +9,15 @@ os.makedirs(data_dir("processed"), exist_ok=True)
 country = "Suriname"
 
 
-hs_codes = [1006] #rice
+hs_codes = [
+    "1006", # rice
+    "1001", # wheat
+    "1101", # wheat flour
+    "17", # sugar
+    "0105", # poultry, live
+    "0207", # poultry, meat
+    "1507", # soyabaen oil
+]
 years = [y for y in range(2010, 2022)]
 
 for freq in ["A", "M"]:
