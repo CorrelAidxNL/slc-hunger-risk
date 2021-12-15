@@ -7,7 +7,9 @@ def load_food_balance_data(country):
     df = pd.read_csv(data_dir("processed", f"fao-data-{country}.csv"), dtype=dtype_fao)
     # Select Food Balance Sheet elements
     elements = [
-        "Food supply (kcal/capita/day)", 
+        "Food supply (kcal/capita/day)",
+        "Protein supply quantity (g/capita/day)",
+        "Fat supply quantity (g/capita/day)", 
         "Food",
         "Production", 
         "Import Quantity", 
