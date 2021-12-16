@@ -1,6 +1,4 @@
 pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
-H3,2010,2010,2010,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.",5,Number of items,,,7494.0,,805.0,,51726,,,4
-H3,2010,2010,2010,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.",5,Number of items,,,25650.0,,1238.0,,79573,,,4
 H3,2010,2010,2010,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,3819932.0,,3951220.0,,5839827,,,0
 H3,2010,2010,2010,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,22117.0,,22117.0,,57032,,,0
 H3,2010,2010,2010,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,186026.0,,186026.0,,635808,,,0
@@ -36,17 +34,6 @@ H3,2010,2010,2010,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,
 H3,2010,2010,2010,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,915940.0,,915940.0,,335747,,,0
 H3,2010,2010,2010,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,815516.0,,815516.0,,947517,,,0
 H3,2010,2010,2010,4,0,3,Re-Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,53685.0,,53685.0,,45000,,,0
-H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,1686860.0,,1686860.0,,696513,,,0
-H3,2010,2010,2010,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,200.0,,291.0,,225,,,0
-H3,2010,2010,2010,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,700.0,,700.0,,9279,,,0
-H3,2010,2010,2010,4,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,593150.0,,593150.0,,223984,,,0
-H3,2010,2010,2010,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,13300.0,,13300.0,,7587,,,0
-H3,2010,2010,2010,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,637286.0,,637286.0,,304581,,,0
-H3,2010,2010,2010,4,0,3,Re-Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,100000.0,,100000.0,,53475,,,0
-H3,2010,2010,2010,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,315487.0,,315487.0,,222821,,,0
-H3,2010,2010,2010,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,1378888.0,,1378888.0,,562987,,,0
-H3,2010,2010,2010,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,129000.0,,129000.0,,26047,,,0
-H3,2010,2010,2010,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,3710.0,,3710.0,,11592,,,0
 H3,2010,2010,2010,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,1745730.0,,1745730.0,,2097027,,,0
 H3,2010,2010,2010,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,1297600.0,,1297600.0,,1681029,,,0
 H3,2010,2010,2010,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,2291428.0,,2272635.0,,2807034,,,0
@@ -55,212 +42,6 @@ H3,2010,2010,2010,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,
 H3,2010,2010,2010,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,6062.0,,6062.0,,10652,,,0
 H3,2010,2010,2010,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,6062.0,,6062.0,,10652,,,0
 H3,2010,2010,2010,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,35701.0,,35701.0,,46057,,,0
-H3,2010,2010,2010,2,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,35728,,,0
-H3,2010,2010,2010,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,28787,,,0
-H3,2010,2010,2010,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1626288,,,0
-H3,2010,2010,2010,2,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2573,,,0
-H3,2010,2010,2010,2,0,3,Re-Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2550,,,0
-H3,2010,2010,2010,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,52763,,,0
-H3,2010,2010,2010,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,4156313,,,0
-H3,2010,2010,2010,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,84266,,,0
-H3,2010,2010,2010,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,14580,,,0
-H3,2010,2010,2010,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,13717,,,0
-H3,2010,2010,2010,2,0,2,Export,300,Greece,GRC,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,154,,,0
-H3,2010,2010,2010,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1196336,,,0
-H3,2010,2010,2010,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,549,,,0
-H3,2010,2010,2010,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1753274,,,0
-H3,2010,2010,2010,2,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,568094,,,0
-H3,2010,2010,2010,2,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,7611,,,0
-H3,2010,2010,2010,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,3710,,,0
-H3,2010,2010,2010,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,14502,,,0
-H3,2010,2010,2010,2,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,8988,,,0
-H3,2010,2010,2010,2,0,2,Export,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,21576,,,0
-H3,2010,2010,2010,2,0,1,Import,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,5,,,0
-H3,2010,2010,2010,2,0,2,Export,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,21560,,,0
-H3,2010,2010,2010,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,180458,,,0
-H3,2010,2010,2010,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,5303,,,0
-H3,2010,2010,2010,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2421849,,,0
-H3,2010,2010,2010,2,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,181,,,0
-H3,2010,2010,2010,2,0,2,Export,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,50,,,0
-H3,2010,2010,2010,2,0,2,Export,558,Nicaragua,NIC,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,677376,,,0
-H3,2010,2010,2010,2,0,2,Export,604,Peru,PER,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1948,,,0
-H3,2010,2010,2010,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,69334,,,0
-H3,2010,2010,2010,2,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,69334,,,0
-H3,2010,2010,2010,2,0,2,Export,704,Viet Nam,VNM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,4988,,,0
-H3,2010,2010,2010,2,0,1,Import,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,403267,,,0
-H3,2010,2010,2010,2,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,802646,,,0
-H3,2010,2010,2010,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2097,,,0
-H3,2010,2010,2010,2,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,82199,,,0
-H3,2010,2010,2010,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,39108,,,0
-H3,2010,2010,2010,2,0,2,Export,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,282585,,,0
-H3,2010,2010,2010,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1065775,,,0
-H3,2010,2010,2010,2,0,3,Re-Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,43200,,,0
-H3,2011,2011,2011,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.",5,Number of items,,,5040.0,,195.0,,43598,,,0
-H3,2011,2011,2011,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.",5,Number of items,,,25475.0,,,,99665,,,0
-H3,2011,2011,2011,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,25020.0,,25020.0,,36083,,,0
-H3,2011,2011,2011,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,3703323.0,,4430268.0,,7422178,,,0
-H3,2011,2011,2011,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,80290.0,,80290.0,,107900,,,0
-H3,2011,2011,2011,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,26995.0,,26995.0,,76952,,,0
-H3,2011,2011,2011,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,237364.0,,237364.0,,875008,,,0
-H3,2011,2011,2011,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,13002799.0,,13002799.0,,14795450,,,0
-H3,2011,2011,2011,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,5275000.0,,5275000.0,,1882075,,,0
-H3,2011,2011,2011,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,250.0,,250.0,,18,,,0
-H3,2011,2011,2011,4,0,1,Import,736,Fmr Sudan,SDN,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,13750000.0,,13750000.0,,3976867,,,0
-H3,2011,2011,2011,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,342000.0,,342000.0,,76192,,,0
-H3,2011,2011,2011,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,342000.0,,342000.0,,76192,,,0
-H3,2011,2011,2011,4,0,2,Export,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,619760.0,,619760.0,,173891,,,0
-H3,2011,2011,2011,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,3903000.0,,3903000.0,,1476335,,,0
-H3,2011,2011,2011,4,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,24780.0,,24780.0,,15923,,,0
-H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,3900.0,,3900.0,,8071,,,0
-H3,2011,2011,2011,4,0,1,Import,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1225.0,,1225.0,,1277,,,0
-H3,2011,2011,2011,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,4324422.0,,4324422.0,,2473395,,,0
-H3,2011,2011,2011,4,0,1,Import,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,3312764.0,,3312764.0,,1908980,,,0
-H3,2011,2011,2011,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,733200.0,,733200.0,,158967,,,0
-H3,2011,2011,2011,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,26291995.0,,26291995.0,,20033625,,,0
-H3,2011,2011,2011,4,0,1,Import,470,Malta,MLT,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1000.0,,1000.0,,931,,,0
-H3,2011,2011,2011,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,5216916.0,,5216916.0,,2736170,,,0
-H3,2011,2011,2011,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,5898.0,,5898.0,,15035,,,0
-H3,2011,2011,2011,4,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,140406.0,,140406.0,,142658,,,0
-H3,2011,2011,2011,4,0,1,Import,540,New Caledonia,NCL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,602.0,,602.0,,969,,,0
-H3,2011,2011,2011,4,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,931169.0,,931169.0,,609667,,,0
-H3,2011,2011,2011,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,7311720.0,,7311720.0,,3949407,,,0
-H3,2011,2011,2011,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,158866.0,,158866.0,,187151,,,0
-H3,2011,2011,2011,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,590987.0,,590987.0,,423878,,,0
-H3,2011,2011,2011,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,123488.0,,123488.0,,50118,,,0
-H3,2011,2011,2011,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,247198.0,,247198.0,,277234,,,0
-H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,847640.0,,847640.0,,464816,,,0
-H3,2011,2011,2011,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,150.0,,150.0,,1361,,,0
-H3,2011,2011,2011,4,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,40500.0,,40500.0,,22267,,,0
-H3,2011,2011,2011,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,705892.0,,705892.0,,146863,,,0
-H3,2011,2011,2011,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,354375.0,,354375.0,,219650,,,0
-H3,2011,2011,2011,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,2890.0,,2890.0,,5304,,,0
-H3,2011,2011,2011,4,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,1.0,,1.0,,1,,,0
-H3,2011,2011,2011,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,5056.0,,5056.0,,3763,,,0
-H3,2011,2011,2011,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,1511715.0,,1511715.0,,746791,,,0
-H3,2011,2011,2011,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,276000.0,,276000.0,,54973,,,0
-H3,2011,2011,2011,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,7363.0,,7363.0,,35419,,,0
-H3,2011,2011,2011,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,2796432.0,,2796432.0,,4378600,,,0
-H3,2011,2011,2011,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,1138500.0,,1138500.0,,2043590,,,0
-H3,2011,2011,2011,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,2043000.0,,2030078.0,,3122062,,,0
-H3,2011,2011,2011,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,2172.0,,2172.0,,1618,,,0
-H3,2011,2011,2011,4,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,260.0,,260.0,,781,,,0
-H3,2011,2011,2011,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,4303094.0,,4303094.0,,7318647,,,0
-H3,2011,2011,2011,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,104535.0,,104535.0,,166653,,,0
-H3,2011,2011,2011,2,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,65153,,,0
-H3,2011,2011,2011,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,7122,,,0
-H3,2011,2011,2011,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2633090,,,0
-H3,2011,2011,2011,2,0,1,Import,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,63,,,0
-H3,2011,2011,2011,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,86065,,,0
-H3,2011,2011,2011,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,5704325,,,0
-H3,2011,2011,2011,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,85571,,,0
-H3,2011,2011,2011,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,8511,,,0
-H3,2011,2011,2011,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,447220,,,0
-H3,2011,2011,2011,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2450224,,,0
-H3,2011,2011,2011,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,117374,,,0
-H3,2011,2011,2011,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,4162970,,,0
-H3,2011,2011,2011,2,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,220100,,,0
-H3,2011,2011,2011,2,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1849,,,0
-H3,2011,2011,2011,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,44739,,,0
-H3,2011,2011,2011,2,0,2,Export,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,43793,,,0
-H3,2011,2011,2011,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,83179,,,0
-H3,2011,2011,2011,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4722,,,0
-H3,2011,2011,2011,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1897486,,,0
-H3,2011,2011,2011,2,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,3515,,,0
-H3,2011,2011,2011,2,0,2,Export,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,5,,,0
-H3,2011,2011,2011,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1338,,,0
-H3,2011,2011,2011,2,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,218700,,,0
-H3,2011,2011,2011,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,67128,,,0
-H3,2011,2011,2011,2,0,1,Import,818,Egypt,EGY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2427,,,0
-H3,2011,2011,2011,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1463087,,,0
-H2,2011,2011,2011,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,110440.0,,110440.0,,85879,,,0
-H4,2012,2012,2012,4,0,1,Import,50,Bangladesh,BGD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,31300.0,,540.0,,29784,,,4
-H4,2012,2012,2012,4,0,1,Import,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",1,No Quantity,,,,,1381.0,,2566,,,4
-H4,2012,2012,2012,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,1008.0,,50.0,,6995,,,0
-H4,2012,2012,2012,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,21704.0,,197.0,,41862,,,0
-H4,2012,2012,2012,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,60544.0,,2790.0,,204738,,,4
-H4,2012,2012,2012,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,3771060.0,,3855529.0,,6491077,,,0
-H4,2012,2012,2012,4,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,27216.0,,27216.0,,55051,,,0
-H4,2012,2012,2012,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",1,No Quantity,,,,,34.0,,212,,,0
-H4,2012,2012,2012,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,38202.0,,48125.0,,74584,,,0
-H4,2012,2012,2012,4,0,1,Import,710,South Africa,ZAF,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,28020.0,,28020.0,,12204,,,0
-H4,2012,2012,2012,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,14302230.0,,14302230.0,,17430843,,,0
-H4,2012,2012,2012,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,,,5144760.0,,5144760.0,,1946622,,,0
-H4,2012,2012,2012,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,,,1000.0,,1000.0,,488,,,0
-H4,2012,2012,2012,4,0,2,Export,604,Peru,PER,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,,,1.0,,1.0,,22,,,0
-H4,2012,2012,2012,4,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,123640.0,,123640.0,,71580,,,0
-H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5400.0,,5400.0,,10218,,,0
-H4,2012,2012,2012,4,0,1,Import,208,Denmark,DNK,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,25.0,,25.0,,22,,,0
-H4,2012,2012,2012,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,50.0,,50.0,,68,,,0
-H4,2012,2012,2012,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5452568.0,,5452568.0,,3222192,,,0
-H4,2012,2012,2012,4,0,1,Import,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1494900.0,,1494900.0,,817892,,,0
-H4,2012,2012,2012,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1978212.0,,1978212.0,,1240547,,,0
-H4,2012,2012,2012,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,13339.0,,13339.0,,27527,,,0
-H4,2012,2012,2012,4,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,65880.0,,65880.0,,47093,,,0
-H4,2012,2012,2012,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,8517860.0,,8517860.0,,5114248,,,0
-H4,2012,2012,2012,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,159334.0,,159334.0,,179402,,,0
-H4,2012,2012,2012,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,125000.0,,125000.0,,77714,,,0
-H4,2012,2012,2012,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,428912.0,,428912.0,,485269,,,0
-H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,123680.0,,123680.0,,59551,,,0
-H4,2012,2012,2012,4,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1125.0,,1125.0,,1319,,,0
-H4,2012,2012,2012,4,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1125.0,,1125.0,,1319,,,0
-H4,2012,2012,2012,4,0,2,Export,428,Latvia,LVA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,242550.0,,242550.0,,120591,,,0
-H4,2012,2012,2012,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,2446.0,,2446.0,,4170,,,0
-H4,2012,2012,2012,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,603.0,,603.0,,1356,,,0
-H4,2012,2012,2012,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,62127.0,,62127.0,,100355,,,0
-H4,2012,2012,2012,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1742329.0,,1742329.0,,2619451,,,0
-H4,2012,2012,2012,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1345990.0,,1345990.0,,2109994,,,0
-H4,2012,2012,2012,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1633000.0,,1621680.0,,2441092,,,0
-H4,2012,2012,2012,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,5.0,,5.0,,15,,,0
-H4,2012,2012,2012,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,560.0,,560.0,,415,,,0
-H4,2012,2012,2012,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,4332280.0,,4378056.0,,6934163,,,0
-H4,2012,2012,2012,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,141521.0,,141521.0,,238489,,,0
-H4,2012,2012,2012,2,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,73763,,,0
-H4,2012,2012,2012,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,11882,,,0
-H4,2012,2012,2012,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2662999,,,0
-H4,2012,2012,2012,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,71460,,,0
-H4,2012,2012,2012,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2867804,,,0
-H4,2012,2012,2012,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,116151,,,0
-H4,2012,2012,2012,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,7542,,,0
-H4,2012,2012,2012,2,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,192873,,,0
-H4,2012,2012,2012,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1076073,,,0
-H4,2012,2012,2012,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2969143,,,0
-H4,2012,2012,2012,2,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,5978,,,0
-H4,2012,2012,2012,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,884,,,0
-H4,2012,2012,2012,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,30206,,,0
-H4,2012,2012,2012,2,0,2,Export,381,Italy,ITA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,7417,,,0
-H4,2012,2012,2012,2,0,2,Export,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,79333,,,0
-H4,2012,2012,2012,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2736,,,0
-H4,2012,2012,2012,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2315614,,,0
-H4,2012,2012,2012,2,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,29696,,,0
-H4,2012,2012,2012,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,5449,,,0
-H4,2012,2012,2012,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,28581,,,0
-H4,2012,2012,2012,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,415097,,,0
-H3,2012,2012,2012,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,184323.0,,184323.0,,161032,,,0
-H3,2012,2012,2012,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,367148.0,,367148.0,,1339379,,,0
-H3,2012,2012,2012,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,425555.0,,425555.0,,231895,,,0
-H3,2012,2012,2012,4,0,1,Import,231,Ethiopia,ETH,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,480000.0,,480000.0,,455257,,,0
-H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1750744.0,,1750744.0,,626213,,,0
-H3,2012,2012,2012,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,45242650.0,,45242650.0,,30283802,,,0
-H3,2012,2012,2012,4,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,210572.0,,210572.0,,220923,,,0
-H3,2012,2012,2012,4,0,1,Import,540,New Caledonia,NCL,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,5236.0,,5236.0,,9282,,,0
-H3,2012,2012,2012,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,7180.0,,7180.0,,8682,,,0
-H3,2012,2012,2012,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,691731.0,,691731.0,,554423,,,0
-H3,2012,2012,2012,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,950.0,,950.0,,1422,,,0
-H3,2012,2012,2012,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,871600.0,,871600.0,,141157,,,0
-H3,2012,2012,2012,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,650475.0,,650475.0,,378678,,,0
-H3,2012,2012,2012,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,3000.0,,3000.0,,882,,,0
-H3,2012,2012,2012,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,1772.0,,1772.0,,950,,,0
-H3,2012,2012,2012,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,533057.0,,533057.0,,326482,,,0
-H3,2012,2012,2012,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1277,,,0
-H3,2012,2012,2012,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,4712429,,,0
-H3,2012,2012,2012,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,14153,,,0
-H3,2012,2012,2012,2,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1207,,,0
-H3,2012,2012,2012,2,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,277,,,0
-H3,2012,2012,2012,2,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,201736,,,0
-H2,2012,2012,2012,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,614797.0,,614797.0,,547486,,,0
-H4,2013,2013,2013,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,1008.0,,40.0,,8276,,,0
-H4,2013,2013,2013,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,18824.0,,176.0,,37515,,,0
-H4,2013,2013,2013,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,52437.0,,2554.0,,187411,,,4
 H4,2013,2013,2013,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,4086746.0,,4086746.0,,7214630,,,0
 H4,2013,2013,2013,4,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,182345.0,,182345.0,,783199,,,0
 H4,2013,2013,2013,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,44374.0,,44374.0,,105693,,,0
@@ -283,45 +64,11 @@ H4,2013,2013,2013,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Ric
 H4,2013,2013,2013,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,375000.0,,375000.0,,236079,,,0
 H4,2013,2013,2013,4,0,1,Import,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,11782.0,,11782.0,,7350,,,0
 H4,2013,2013,2013,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,23188.0,,23188.0,,40120,,,0
-H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,800.0,,800.0,,713,,,0
-H4,2013,2013,2013,4,0,2,Export,144,Sri Lanka,LKA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,648.0,,648.0,,301,,,6
-H4,2013,2013,2013,4,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,4562.0,,4562.0,,2121,,,6
-H4,2013,2013,2013,4,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,4562.0,,4562.0,,2121,,,6
-H4,2013,2013,2013,4,0,2,Export,428,Latvia,LVA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,420975.0,,420975.0,,192209,,,0
-H4,2013,2013,2013,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,6590.0,,6590.0,,15027,,,0
-H4,2013,2013,2013,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,60000.0,,60000.0,,32820,,,0
-H4,2013,2013,2013,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,221444.0,,221444.0,,328065,,,0
 H4,2013,2013,2013,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,4072349.0,,4072349.0,,5509542,,,0
 H4,2013,2013,2013,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,639595.0,,639595.0,,897524,,,0
 H4,2013,2013,2013,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1399000.0,,1391051.0,,1880648,,,0
 H4,2013,2013,2013,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,4965075.0,,4965075.0,,7219952,,,0
 H4,2013,2013,2013,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,38947.0,,38947.0,,73796,,,0
-H4,2013,2013,2013,2,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,63642,,,0
-H4,2013,2013,2013,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,194081,,,0
-H4,2013,2013,2013,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1665502,,,0
-H4,2013,2013,2013,2,0,2,Export,144,Sri Lanka,LKA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1500,,,0
-H4,2013,2013,2013,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,62689,,,0
-H4,2013,2013,2013,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2224334,,,0
-H4,2013,2013,2013,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,99571,,,0
-H4,2013,2013,2013,2,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,947,,,0
-H4,2013,2013,2013,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,6769,,,0
-H4,2013,2013,2013,2,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,25773,,,0
-H4,2013,2013,2013,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,203987,,,0
-H4,2013,2013,2013,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1698423,,,0
-H4,2013,2013,2013,2,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,5502,,,0
-H4,2013,2013,2013,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,3847,,,0
-H4,2013,2013,2013,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,16710,,,0
-H4,2013,2013,2013,2,0,2,Export,381,Italy,ITA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,7969,,,0
-H4,2013,2013,2013,2,0,2,Export,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1202944,,,0
-H4,2013,2013,2013,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,26870,,,0
-H4,2013,2013,2013,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4520,,,0
-H4,2013,2013,2013,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1871727,,,0
-H4,2013,2013,2013,2,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,13327,,,0
-H4,2013,2013,2013,2,0,2,Export,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,15,,,0
-H4,2013,2013,2013,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,5645,,,0
-H4,2013,2013,2013,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,3782,,,0
-H4,2013,2013,2013,2,0,2,Export,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1151,,,0
-H4,2013,2013,2013,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,215503,,,0
 H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,328065.0,,328065.0,,316791,,,0
 H3,2013,2013,2013,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,365877.0,,365877.0,,1410135,,,0
 H3,2013,2013,2013,4,0,2,Export,804,Ukraine,UKR,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,25500.0,,25500.0,,34425,,,0
@@ -334,22 +81,6 @@ H3,2013,2013,2013,4,0,1,Import,404,Kenya,KEN,740,Suriname,SUR,,,,,,,,1006,Rice.,
 H3,2013,2013,2013,4,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,277877.0,,277877.0,,288422,,,0
 H3,2013,2013,2013,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,555215.0,,555215.0,,409241,,,0
 H3,2013,2013,2013,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,236.0,,236.0,,313,,,0
-H3,2013,2013,2013,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,810.0,,810.0,,1276,,,0
-H3,2013,2013,2013,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,532770.0,,532770.0,,126139,,,0
-H3,2013,2013,2013,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,641970.0,,641970.0,,406032,,,0
-H3,2013,2013,2013,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,665780.0,,665780.0,,389009,,,0
-H3,2013,2013,2013,2,0,1,Import,231,Ethiopia,ETH,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4,,,0
-H3,2013,2013,2013,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,94,,,0
-H3,2013,2013,2013,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,4992301,,,0
-H3,2013,2013,2013,2,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,127,,,0
-H3,2013,2013,2013,2,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,220,,,0
-H3,2013,2013,2013,2,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,306783,,,0
-H2,2013,2013,2013,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,227733.0,,227733.0,,257297,,,0
-H4,2014,2014,2014,4,0,2,Export,203,Czechia,CZE,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,560.0,,24.0,,480,,,0
-H4,2014,2014,2014,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",1,No Quantity,,,,,69.0,,1797,,,0
-H4,2014,2014,2014,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,2959.0,,190.0,,31671,,,0
-H4,2014,2014,2014,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,17280.0,,862.0,,34425,,,0
-H4,2014,2014,2014,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",1,No Quantity,,,,,1883.0,,131640,,,4
 H4,2014,2014,2014,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,27000.0,,27000.0,,44820,,,0
 H4,2014,2014,2014,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,3713941.0,,3713941.0,,6394743,,,0
 H4,2014,2014,2014,4,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,210457.0,,210457.0,,869466,,,0
@@ -371,17 +102,6 @@ H4,2014,2014,2014,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Ric
 H4,2014,2014,2014,4,0,1,Import,804,Ukraine,UKR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,310.0,,310.0,,615,,,0
 H4,2014,2014,2014,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,409000.0,,409000.0,,157873,,,0
 H4,2014,2014,2014,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,6534.0,,6534.0,,12607,,,0
-H4,2014,2014,2014,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,300.0,,300.0,,231,,,0
-H4,2014,2014,2014,4,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,388000.0,,388000.0,,248566,,,0
-H4,2014,2014,2014,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,96900.0,,96900.0,,51938,,,0
-H4,2014,2014,2014,4,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1150.0,,1150.0,,1225,,,0
-H4,2014,2014,2014,4,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1150.0,,1150.0,,1225,,,0
-H4,2014,2014,2014,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,326586.0,,326586.0,,198402,,,0
-H4,2014,2014,2014,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,94500.0,,94500.0,,61499,,,0
-H4,2014,2014,2014,4,0,2,Export,428,Latvia,LVA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,24975.0,,24975.0,,11632,,,0
-H4,2014,2014,2014,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,4988.0,,4988.0,,7337,,,0
-H4,2014,2014,2014,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,49050.0,,49050.0,,19326,,,0
-H4,2014,2014,2014,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,73691.0,,73691.0,,160278,,,0
 H4,2014,2014,2014,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,2695518.0,,2695518.0,,3243658,,,0
 H4,2014,2014,2014,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1520800.0,,1520800.0,,636847,,,0
 H4,2014,2014,2014,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1020000.0,,1015301.0,,1209372,,,0
@@ -389,36 +109,6 @@ H4,2014,2014,2014,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,
 H4,2014,2014,2014,4,0,2,Export,804,Ukraine,UKR,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,74810.0,,74810.0,,77107,,,0
 H4,2014,2014,2014,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,20253.0,,20253.0,,49196,,,0
 H4,2014,2014,2014,4,0,3,Re-Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,8400.0,,8400.0,,22080,,,0
-H4,2014,2014,2014,2,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,51872,,,0
-H4,2014,2014,2014,2,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4344,,,0
-H4,2014,2014,2014,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,250377,,,0
-H4,2014,2014,2014,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,921955,,,0
-H4,2014,2014,2014,2,0,1,Import,124,Canada,CAN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,578,,,0
-H4,2014,2014,2014,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,76086,,,0
-H4,2014,2014,2014,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,6047423,,,0
-H4,2014,2014,2014,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,180483,,,0
-H4,2014,2014,2014,2,0,2,Export,222,El Salvador,SLV,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,27098,,,0
-H4,2014,2014,2014,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,6397,,,0
-H4,2014,2014,2014,2,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,388,,,0
-H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,82917,,,0
-H4,2014,2014,2014,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,423095,,,0
-H4,2014,2014,2014,2,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,57531,,,0
-H4,2014,2014,2014,2,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,8694,,,0
-H4,2014,2014,2014,2,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,3574,,,0
-H4,2014,2014,2014,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,26082,,,0
-H4,2014,2014,2014,2,0,2,Export,381,Italy,ITA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,14961,,,0
-H4,2014,2014,2014,2,0,2,Export,422,Lebanon,LBN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2055,,,0
-H4,2014,2014,2014,2,0,2,Export,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,884683,,,0
-H4,2014,2014,2014,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,11862,,,0
-H4,2014,2014,2014,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,188,,,0
-H4,2014,2014,2014,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1870224,,,0
-H4,2014,2014,2014,2,0,2,Export,591,Panama,PAN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,569,,,0
-H4,2014,2014,2014,2,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2811,,,0
-H4,2014,2014,2014,2,0,1,Import,705,Slovenia,SVN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,156,,,0
-H4,2014,2014,2014,2,0,1,Import,729,Sudan,SDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,217,,,0
-H4,2014,2014,2014,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,4259,,,0
-H4,2014,2014,2014,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,22755,,,0
-H4,2014,2014,2014,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,163144,,,0
 H3,2014,2014,2014,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,389271.0,,389271.0,,1516132,,,0
 H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,950550.0,,950550.0,,203971,,,0
 H3,2014,2014,2014,4,0,3,Re-Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,40000.0,,40000.0,,17982,,,0
@@ -429,23 +119,7 @@ H3,2014,2014,2014,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,740,Suri
 H3,2014,2014,2014,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,390452.0,,390452.0,,294590,,,0
 H3,2014,2014,2014,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,10635.0,,10635.0,,36247,,,0
 H3,2014,2014,2014,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,5507.0,,5507.0,,25212,,,0
-H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,22500.0,,22500.0,,7558,,,0
-H3,2014,2014,2014,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,69980.0,,69980.0,,51895,,,0
-H3,2014,2014,2014,4,0,1,Import,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,13598.0,,13598.0,,8461,,,0
-H3,2014,2014,2014,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,40500.0,,40500.0,,30353,,,0
-H3,2014,2014,2014,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,284400.0,,284400.0,,163452,,,0
 H3,2014,2014,2014,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,228700.0,,228700.0,,159301,,,0
-H3,2014,2014,2014,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,12003,,,0
-H3,2014,2014,2014,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,3574569,,,0
-H3,2014,2014,2014,2,0,3,Re-Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,19453,,,0
-H3,2014,2014,2014,2,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,360742,,,0
-H3,2014,2014,2014,2,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,96260,,,0
-H2,2014,2014,2014,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,23178.0,,23178.0,,18203,,,0
-H4,2015,2015,2015,4,0,2,Export,203,Czechia,CZE,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,640.0,,28.0,,3914,,,0
-H4,2015,2015,2015,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,257.0,,16.0,,800,,,2
-H4,2015,2015,2015,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",1,No Quantity,,,,,220.0,,24441,,,0
-H4,2015,2015,2015,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,20466.0,,1014.0,,34057,,,0
-H4,2015,2015,2015,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,63933.0,,2304.0,,171596,,,4
 H4,2015,2015,2015,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,4371552.0,,4371552.0,,6522935,,,0
 H4,2015,2015,2015,4,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,330405.0,,330405.0,,982002,,,0
 H4,2015,2015,2015,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",1,No Quantity,,,,,20.0,,98,,,0
@@ -471,13 +145,6 @@ H4,2015,2015,2015,4,0,1,Import,579,Norway,NOR,740,Suriname,SUR,,,,,,,,1006,Rice,
 H4,2015,2015,2015,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,20920.0,,20920.0,,11428,,,0
 H4,2015,2015,2015,4,0,1,Import,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,150.0,,150.0,,179,,,0
 H4,2015,2015,2015,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,237676.0,,237676.0,,232616,,,0
-H4,2015,2015,2015,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,300.0,,300.0,,124,,,0
-H4,2015,2015,2015,4,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,194000.0,,194000.0,,113389,,,0
-H4,2015,2015,2015,4,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,5725.0,,5725.0,,6331,,,0
-H4,2015,2015,2015,4,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,5725.0,,5725.0,,6331,,,0
-H4,2015,2015,2015,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1129032.0,,1129032.0,,618286,,,0
-H4,2015,2015,2015,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,19758.0,,19758.0,,20009,,,0
-H4,2015,2015,2015,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,3000.0,,3000.0,,1073,,,0
 H4,2015,2015,2015,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,2292164.0,,2292164.0,,2539453,,,0
 H4,2015,2015,2015,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,321115.0,,321115.0,,340879,,,0
 H4,2015,2015,2015,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1889000.0,,1880859.0,,1867460,,,0
@@ -485,33 +152,6 @@ H4,2015,2015,2015,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,15
 H4,2015,2015,2015,4,0,2,Export,233,Estonia,EST,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,34845.0,,34845.0,,43442,,,0
 H4,2015,2015,2015,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1285938.0,,1285938.0,,1230844,,,0
 H4,2015,2015,2015,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,20249.0,,20249.0,,42280,,,0
-H4,2015,2015,2015,2,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,43731,,,0
-H4,2015,2015,2015,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,222047,,,0
-H4,2015,2015,2015,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1238436,,,0
-H4,2015,2015,2015,2,0,2,Export,84,Belize,BLZ,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,145000,,,0
-H4,2015,2015,2015,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,83968,,,0
-H4,2015,2015,2015,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,4451394,,,0
-H4,2015,2015,2015,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,1304,,,0
-H4,2015,2015,2015,2,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,78,,,0
-H4,2015,2015,2015,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,4508,,,0
-H4,2015,2015,2015,2,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,283295,,,0
-H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,74033,,,0
-H4,2015,2015,2015,2,0,1,Import,308,Grenada,GRD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,7469,,,0
-H4,2015,2015,2015,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,882903,,,0
-H4,2015,2015,2015,2,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,26463,,,0
-H4,2015,2015,2015,2,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,5626,,,0
-H4,2015,2015,2015,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2630,,,0
-H4,2015,2015,2015,2,0,2,Export,422,Lebanon,LBN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1,,,0
-H4,2015,2015,2015,2,0,2,Export,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,11181,,,0
-H4,2015,2015,2015,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,32230,,,0
-H4,2015,2015,2015,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4,,,0
-H4,2015,2015,2015,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1336977,,,4
-H4,2015,2015,2015,2,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,446,,,0
-H4,2015,2015,2015,2,0,2,Export,752,Sweden,SWE,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,118,,,4
-H4,2015,2015,2015,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2572,,,0
-H4,2015,2015,2015,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,21672,,,0
-H4,2015,2015,2015,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,64105,,,0
-H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0105,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.",5,Number of items,,,4000.0,,800.0,,11661,,,0
 H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,5000.0,,5000.0,,16555,,,0
 H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,10800.0,,10800.0,,43480,,,0
 H3,2015,2015,2015,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,338906.0,,338906.0,,1372502,,,0
@@ -522,17 +162,7 @@ H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.
 H3,2015,2015,2015,4,0,1,Import,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,503507.0,,503507.0,,272622,,,0
 H3,2015,2015,2015,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,6.0,,6.0,,15,,,0
 H3,2015,2015,2015,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,6.0,,6.0,,15,,,0
-H3,2015,2015,2015,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,112150.0,,112150.0,,83096,,,0
-H3,2015,2015,2015,4,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,282617.0,,282617.0,,160731,,,0
-H3,2015,2015,2015,4,0,3,Re-Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,17.0,,17.0,,47,,,0
 H3,2015,2015,2015,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,70884.0,,70884.0,,79235,,,0
-H3,2015,2015,2015,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,16736,,,0
-H3,2015,2015,2015,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,3424128,,,0
-H3,2015,2015,2015,2,0,1,Import,729,Sudan,SDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,749,,,0
-H3,2015,2015,2015,2,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,294731,,,0
-H4,2016,2016,2016,4,0,2,Export,214,Dominican Rep.,DOM,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",1,No Quantity,,,,,68.0,,796,,,0
-H4,2016,2016,2016,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,18138.0,,894.0,,30097,,,0
-H4,2016,2016,2016,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,72444.0,,3579.0,,236404,,,4
 H4,2016,2016,2016,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,2626960.0,,2626960.0,,3745176,,,0
 H4,2016,2016,2016,4,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,27215.0,,27215.0,,65974,,,0
 H4,2016,2016,2016,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,257247.0,,257247.0,,274812,,,0
@@ -554,15 +184,6 @@ H4,2016,2016,2016,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8
 H4,2016,2016,2016,4,0,1,Import,757,Switzerland,CHE,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,20.0,,20.0,,24,,,0
 H4,2016,2016,2016,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,165917.0,,165917.0,,137376,,,0
 H4,2016,2016,2016,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,360.0,,360.0,,705,,,0
-H4,2016,2016,2016,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,95580.0,,95580.0,,36655,,,0
-H4,2016,2016,2016,4,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,67500.0,,67500.0,,21292,,,0
-H4,2016,2016,2016,4,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,2300.0,,2300.0,,2383,,,0
-H4,2016,2016,2016,4,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,2300.0,,2300.0,,2383,,,0
-H4,2016,2016,2016,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,863625.0,,863625.0,,450499,,,0
-H4,2016,2016,2016,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,261580.0,,261580.0,,136250,,,0
-H4,2016,2016,2016,4,0,2,Export,428,Latvia,LVA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,15400.0,,15400.0,,4351,,,0
-H4,2016,2016,2016,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1015113.0,,1015113.0,,380426,,,0
-H4,2016,2016,2016,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1200.0,,1200.0,,639,,,0
 H4,2016,2016,2016,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,480671.0,,480671.0,,526963,,,0
 H4,2016,2016,2016,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,378184.0,,378184.0,,387044,,,0
 H4,2016,2016,2016,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1988000.0,,1979121.0,,1811750,,,0
@@ -570,42 +191,13 @@ H4,2016,2016,2016,4,0,2,Export,233,Estonia,EST,740,Suriname,SUR,,,,,,,,1507,"Soy
 H4,2016,2016,2016,4,0,2,Export,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,38390.0,,38390.0,,18272,,,0
 H4,2016,2016,2016,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1110000.0,,1110000.0,,1106821,,,0
 H4,2016,2016,2016,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,83750.0,,83750.0,,81498,,,0
-H4,2016,2016,2016,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,173998,,,0
-H4,2016,2016,2016,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1302958,,,0
-H4,2016,2016,2016,2,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,45525,,,0
-H4,2016,2016,2016,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,10288,,,4
-H4,2016,2016,2016,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2038684,,,0
-H4,2016,2016,2016,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,44946,,,0
-H4,2016,2016,2016,2,0,2,Export,222,El Salvador,SLV,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,112755,,,0
-H4,2016,2016,2016,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,2724,,,0
-H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,143392,,,0
-H4,2016,2016,2016,2,0,1,Import,308,Grenada,GRD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,104036,,,0
-H4,2016,2016,2016,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,3973934,,,0
-H4,2016,2016,2016,2,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,204435,,,0
-H4,2016,2016,2016,2,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4826,,,0
-H4,2016,2016,2016,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,6947,,,0
-H4,2016,2016,2016,2,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,31979,,,0
-H4,2016,2016,2016,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,35076,,,0
-H4,2016,2016,2016,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1827,,,0
-H4,2016,2016,2016,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1026890,,,0
-H4,2016,2016,2016,2,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,325,,,0
-H4,2016,2016,2016,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1225,,,0
-H4,2016,2016,2016,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,12595,,,0
-H4,2016,2016,2016,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,54769,,,0
 H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,11000.0,,11000.0,,14400,,,0
 H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,4400.0,,4400.0,,14700,,,0
 H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,1112880.0,,1112880.0,,332100,,,0
 H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,55.0,,55.0,,176,,,0
 H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,335546.0,,335546.0,,150839,,,0
-H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,150061.0,,150061.0,,73985,,,0
-H3,2016,2016,2016,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,438000.0,,438000.0,,271946,,,0
 H3,2016,2016,2016,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,44746.0,,44746.0,,93840,,,0
-H3,2016,2016,2016,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,3526,,,0
-H3,2016,2016,2016,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,3949060,,,0
-H3,2016,2016,2016,2,0,3,Re-Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,,,,,65720,,,0
 H2,2016,2016,2016,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05",8,Weight in kilograms,,,35.0,,35.0,,200,,,0
-H5,2017,2017,2017,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,38405.0,,1878.0,,67686,,,0
-H5,2017,2017,2017,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,60259.0,,3043.0,,223228,,,4
 H5,2017,2017,2017,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,2317769.0,,2317769.0,,3393619,,,0
 H5,2017,2017,2017,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,104200.0,,104200.0,,112754,,,0
 H5,2017,2017,2017,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,11701.0,,11701.0,,28546,,,0
@@ -627,69 +219,22 @@ H5,2017,2017,2017,4,0,1,Import,688,Serbia,SRB,740,Suriname,SUR,,,,,,,,1006,Rice,
 H5,2017,2017,2017,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5416.0,,5416.0,,3934,,,0
 H5,2017,2017,2017,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,190846.0,,190846.0,,164599,,,0
 H5,2017,2017,2017,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,250000.0,,250000.0,,81751,,,0
-H5,2017,2017,2017,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,616305.0,,616305.0,,252180,,,0
-H5,2017,2017,2017,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,24.0,,24.0,,232,,,0
-H5,2017,2017,2017,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,150.0,,150.0,,269,,,0
-H5,2017,2017,2017,4,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1800.0,,1800.0,,2275,,,0
-H5,2017,2017,2017,4,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,14738.0,,14738.0,,28224,,,0
-H5,2017,2017,2017,4,0,2,Export,428,Latvia,LVA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1000.0,,1000.0,,238,,,0
-H5,2017,2017,2017,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,8269080.0,,8269080.0,,3771765,,,0
-H5,2017,2017,2017,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1091.0,,1091.0,,667,,,0
-H5,2017,2017,2017,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,164090.0,,164090.0,,57958,,,0
 H5,2017,2017,2017,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,265855.0,,265855.0,,302019,,,0
 H5,2017,2017,2017,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1054000.0,,1048811.0,,1090454,,,0
 H5,2017,2017,2017,4,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,19607.0,,19607.0,,22426,,,0
 H5,2017,2017,2017,4,0,2,Export,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,22440.0,,22440.0,,18003,,,0
 H5,2017,2017,2017,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1044310.0,,1044310.0,,1144746,,,0
 H5,2017,2017,2017,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,70451.0,,70451.0,,54635,,,0
-H5,2017,2017,2017,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,536049,,,0
-H5,2017,2017,2017,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,810652,,,0
-H5,2017,2017,2017,2,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,36685,,,0
-H5,2017,2017,2017,2,0,1,Import,144,Sri Lanka,LKA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4,,,0
-H5,2017,2017,2017,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,78471,,,0
-H5,2017,2017,2017,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2399182,,,0
-H5,2017,2017,2017,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,6637,,,0
-H5,2017,2017,2017,2,0,2,Export,222,El Salvador,SLV,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,143663,,,0
-H5,2017,2017,2017,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2362,,,0
-H5,2017,2017,2017,2,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,108176,,,0
-H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,108500,,,0
-H5,2017,2017,2017,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4018972,,,0
-H5,2017,2017,2017,2,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,247058,,,0
-H5,2017,2017,2017,2,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1159,,,0
-H5,2017,2017,2017,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,34462,,,0
-H5,2017,2017,2017,2,0,2,Export,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,9259,,,0
-H5,2017,2017,2017,2,0,2,Export,480,Mauritius,MUS,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4350,,,0
-H5,2017,2017,2017,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,20062,,,0
-H5,2017,2017,2017,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,903,,,0
-H5,2017,2017,2017,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1782272,,,0
-H5,2017,2017,2017,2,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,958,,,0
-H5,2017,2017,2017,2,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1413,,,0
-H5,2017,2017,2017,2,0,1,Import,729,Sudan,SDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,7802,,,4
-H5,2017,2017,2017,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,383,,,0
-H5,2017,2017,2017,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,20302,,,0
-H5,2017,2017,2017,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,258449,,,0
 H4,2017,2017,2017,4,0,1,Import,384,Côte d'Ivoire,CIV,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,45599.0,,45599.0,,29222,,,0
 H4,2017,2017,2017,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,33886775.0,,33886775.0,,14699827,,,0
 H4,2017,2017,2017,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,24930.0,,24930.0,,16839,,,0
 H4,2017,2017,2017,4,0,1,Import,498,Rep. of Moldova,MDA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1076.0,,1076.0,,950,,,0
 H4,2017,2017,2017,4,0,1,Import,788,Tunisia,TUN,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,24000.0,,24000.0,,10232,,,0
-H4,2017,2017,2017,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,926450.0,,926450.0,,483099,,,0
 H4,2017,2017,2017,4,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,151935.0,,151935.0,,161195,,,0
-H4,2017,2017,2017,2,0,2,Export,32,Argentina,ARG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,72873,,,0
-H4,2017,2017,2017,2,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,86433,,,0
-H4,2017,2017,2017,2,0,2,Export,804,Ukraine,UKR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,478139,,,0
-H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0105,"Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.",5,Number of items,,,2000.0,,2500.0,,4399,,,0
 H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,3490.0,,3490.0,,5805,,,0
 H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,1214350.0,,1214350.0,,284410,,,0
 H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,77801.0,,77801.0,,79501,,,6
-H3,2017,2017,2017,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,128100.0,,128100.0,,88419,,,0
 H3,2017,2017,2017,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,219152.0,,219152.0,,144280,,,6
-H3,2017,2017,2017,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,9268,,,0
-H3,2017,2017,2017,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,5137790,,,0
-H2,2017,2017,2017,2,0,2,Export,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,514,,,0
-H2,2017,2017,2017,2,0,3,Re-Export,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,514,,,0
-H5,2018,2018,2018,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,23966.0,,2384.0,,67562,,,0
-H5,2018,2018,2018,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,47930.0,,3715.0,,249012,,,4
 H5,2018,2018,2018,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,2280200.0,,2280200.0,,2945140,,,0
 H5,2018,2018,2018,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,97741.0,,97741.0,,131534,,,6
 H5,2018,2018,2018,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,11111.0,,11111.0,,37116,,,0
@@ -715,62 +260,19 @@ H5,2018,2018,2018,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8
 H5,2018,2018,2018,4,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,3825000.0,,3825000.0,,1386245,,,0
 H5,2018,2018,2018,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,189170.0,,189170.0,,214827,,,0
 H5,2018,2018,2018,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,658410.0,,658410.0,,215728,,,0
-H5,2018,2018,2018,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,288803.0,,288803.0,,124181,,,0
-H5,2018,2018,2018,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,735165.0,,735165.0,,396190,,,0
-H5,2018,2018,2018,4,0,2,Export,428,Latvia,LVA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,26065.0,,26065.0,,9484,,,0
-H5,2018,2018,2018,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,500.0,,500.0,,743,,,0
-H5,2018,2018,2018,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,8091088.0,,8091088.0,,2685064,,,0
-H5,2018,2018,2018,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1378340.0,,1378340.0,,433882,,,0
 H5,2018,2018,2018,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,106522.0,,106522.0,,118416,,,0
 H5,2018,2018,2018,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,814000.0,,814850.0,,794624,,,0
 H5,2018,2018,2018,4,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,26145.0,,26145.0,,28641,,,0
 H5,2018,2018,2018,4,0,2,Export,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,44880.0,,44880.0,,36600,,,0
 H5,2018,2018,2018,4,0,2,Export,480,Mauritius,MUS,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,88.0,,88.0,,181,,,0
 H5,2018,2018,2018,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1199680.0,,1199680.0,,1241422,,,0
-H5,2018,2018,2018,2,0,1,Import,40,Austria,AUT,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,40506,,,0
-H5,2018,2018,2018,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,149744,,,0
-H5,2018,2018,2018,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,242039,,,0
-H5,2018,2018,2018,2,0,2,Export,84,Belize,BLZ,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,19723,,,0
-H5,2018,2018,2018,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,125989,,,0
-H5,2018,2018,2018,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,810841,,,0
-H5,2018,2018,2018,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,8343,,,0
-H5,2018,2018,2018,2,0,2,Export,222,El Salvador,SLV,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,170907,,,0
-H5,2018,2018,2018,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2342,,,4
-H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,102715,,,0
-H5,2018,2018,2018,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,3943493,,,0
-H5,2018,2018,2018,2,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,520792,,,0
-H5,2018,2018,2018,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,65700,,,0
-H5,2018,2018,2018,2,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,331192,,,0
-H5,2018,2018,2018,2,0,2,Export,458,Malaysia,MYS,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,9894,,,0
-H5,2018,2018,2018,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,38792,,,0
-H5,2018,2018,2018,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,435,,,0
-H5,2018,2018,2018,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2270451,,,0
-H5,2018,2018,2018,2,0,2,Export,558,Nicaragua,NIC,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,82420,,,0
-H5,2018,2018,2018,2,0,2,Export,586,Pakistan,PAK,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,29713,,,0
-H5,2018,2018,2018,2,0,1,Import,690,Seychelles,SYC,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,735,,,0
-H5,2018,2018,2018,2,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,521,,,4
-H5,2018,2018,2018,2,0,1,Import,703,Slovakia,SVK,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,22231,,,0
-H5,2018,2018,2018,2,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,4979,,,0
-H5,2018,2018,2018,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1088,,,0
-H5,2018,2018,2018,2,0,2,Export,784,United Arab Emirates,ARE,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,13537,,,0
-H5,2018,2018,2018,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,39507,,,0
-H5,2018,2018,2018,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,243741,,,0
 H4,2018,2018,2018,4,0,1,Import,498,Rep. of Moldova,MDA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,98850.0,,98850.0,,50776,,,0
-H4,2018,2018,2018,4,0,2,Export,662,Saint Lucia,LCA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,181.0,,181.0,,60,,,0
-H4,2018,2018,2018,4,0,2,Export,804,Ukraine,UKR,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,93000.0,,93000.0,,33180,,,0
 H3,2018,2018,2018,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.",8,Weight in kilograms,,,2467.0,,2467.0,,6786,,,0
 H3,2018,2018,2018,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,,,1152600.0,,1152600.0,,344626,,,0
 H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,1092.0,,1092.0,,871,,,0
 H3,2018,2018,2018,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,233000.0,,233000.0,,115480,,,0
-H3,2018,2018,2018,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,,,138940.0,,138940.0,,100656,,,0
 H3,2018,2018,2018,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions, whether or not refined, but not chemically modified.",8,Weight in kilograms,,,154500.0,,154500.0,,103884,,,0
-H3,2018,2018,2018,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,24059,,,0
-H3,2018,2018,2018,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2300745,,,0
 H2,2018,2018,2018,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,1006,Rice.,8,Weight in kilograms,,,24040.0,,24040.0,,13125,,,0
-H2,2018,2018,2018,2,0,2,Export,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2119,,,0
-H5,2019,2019,2019,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,2020.0,,42.0,,7815,,,2
-H5,2019,2019,2019,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,14110.0,,642.0,,43440,,,0
-H5,2019,2019,2019,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,67500.0,,4523.0,,354287,,,4
 H5,2019,2019,2019,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,2701952.0,,2701952.0,,3669941,,,0
 H5,2019,2019,2019,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,168698.0,,168698.0,,217674,,,0
 H5,2019,2019,2019,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,12938.0,,12938.0,,59397,,,0
@@ -798,64 +300,18 @@ H5,2019,2019,2019,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8
 H5,2019,2019,2019,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,209905.0,,209905.0,,206958,,,6
 H5,2019,2019,2019,4,0,1,Import,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,21810.0,,21810.0,,9616,,,0
 H5,2019,2019,2019,4,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,250000.0,,250000.0,,81853,,,0
-H5,2019,2019,2019,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,65841.0,,65841.0,,37031,,,0
-H5,2019,2019,2019,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,43852.0,,43852.0,,18341,,,0
-H5,2019,2019,2019,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,10825.0,,10825.0,,3039,,,0
-H5,2019,2019,2019,4,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,225000.0,,225000.0,,61573,,,0
-H5,2019,2019,2019,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,18500.0,,18500.0,,9379,,,0
-H5,2019,2019,2019,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,92550.0,,92550.0,,64328,,,0
-H5,2019,2019,2019,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1019435.0,,1019435.0,,540397,,,0
-H5,2019,2019,2019,4,0,2,Export,428,Latvia,LVA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,167900.0,,167900.0,,55922,,,0
-H5,2019,2019,2019,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,9090643.0,,9090643.0,,3017056,,,0
-H5,2019,2019,2019,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1486630.0,,1486630.0,,494816,,,0
-H5,2019,2019,2019,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,680.0,,680.0,,2547,,,0
 H5,2019,2019,2019,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,80159.0,,80159.0,,80648,,,0
 H5,2019,2019,2019,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,900000.0,,901944.0,,836931,,,0
 H5,2019,2019,2019,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1203800.0,,1203800.0,,1194108,,,0
 H5,2019,2019,2019,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,2481.0,,2481.0,,4097,,,0
-H5,2019,2019,2019,2,0,2,Export,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,56,,,0
-H5,2019,2019,2019,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,94337,,,0
-H5,2019,2019,2019,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,265317,,,0
-H5,2019,2019,2019,2,0,2,Export,84,Belize,BLZ,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,679519,,,0
-H5,2019,2019,2019,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,109564,,,0
-H5,2019,2019,2019,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,617727,,,0
-H5,2019,2019,2019,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,8615,,,0
-H5,2019,2019,2019,2,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,436,,,0
-H5,2019,2019,2019,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1565,,,0
-H5,2019,2019,2019,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,114952,,,0
-H5,2019,2019,2019,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,3758267,,,0
-H5,2019,2019,2019,2,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,9205,,,0
-H5,2019,2019,2019,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1692245,,,0
-H5,2019,2019,2019,2,0,3,Re-Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,32585,,,0
-H5,2019,2019,2019,2,0,2,Export,340,Honduras,HND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,170457,,,0
-H5,2019,2019,2019,2,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1875,,,0
-H5,2019,2019,2019,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,43083,,,0
-H5,2019,2019,2019,2,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,346546,,,0
-H5,2019,2019,2019,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,45719,,,0
-H5,2019,2019,2019,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,462,,,0
-H5,2019,2019,2019,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1283180,,,0
-H5,2019,2019,2019,2,0,2,Export,586,Pakistan,PAK,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,65157,,,0
-H5,2019,2019,2019,2,0,2,Export,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,195,,,0
-H5,2019,2019,2019,2,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,794,,,0
-H5,2019,2019,2019,2,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,14046,,,0
-H5,2019,2019,2019,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1068,,,4
-H5,2019,2019,2019,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,59233,,,0
-H5,2019,2019,2019,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,140102,,,0
-H4,2019,2019,2019,2,0,2,Export,484,Mexico,MEX,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1311960,,,0
 H5,2020,2020,2020,4,0,1,Import,52,Barbados,BRB,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,470.0,,470.0,,7703,,,0
 H5,2020,2020,2020,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,2088858.0,,2088858.0,,2511365,,,0
 H5,2020,2020,2020,4,0,1,Import,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,1050000.0,,1050000.0,,373272,,,0
 H5,2020,2020,2020,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2284.0,,2284.0,,3537,,,0
 H5,2020,2020,2020,4,0,1,Import,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,6130000.0,,6130000.0,,2851039,,,0
-H5,2020,2020,2020,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1500.0,,1500.0,,666,,,0
 H5,2020,2020,2020,4,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,42688.0,,42688.0,,46855,,,0
 H5,2020,2020,2020,4,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,875000.0,,876890.0,,858326,,,0
-H5,2020,2020,2020,2,0,2,Export,56,Belgium,BEL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,2322,,,0
-H5,2020,2020,2020,2,0,2,Export,76,Brazil,BRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,719437,,,0
 H5,2020,2020,2020,4,0,1,Import,100,Bulgaria,BGR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,69000.0,,69000.0,,39340,,,0
-H5,2020,2020,2020,2,0,2,Export,84,Belize,BLZ,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,105666,,,0
-H5,2020,2020,2020,2,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,7802,,,0
-H5,2020,2020,2020,2,0,2,Export,156,China,CHN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,47327,,,0
 H5,2020,2020,2020,4,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,194070.0,,194070.0,,238829,,,0
 H5,2020,2020,2020,4,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,20250.0,,20250.0,,19911,,,0
 H5,2020,2020,2020,4,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,,,15954000.0,,15954000.0,,3635507,,,0
@@ -863,42 +319,16 @@ H5,2020,2020,2020,4,0,1,Import,203,Czechia,CZE,740,Suriname,SUR,,,,,,,,1006,Rice
 H5,2020,2020,2020,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,5654956.0,,5654956.0,,3151389,,,0
 H5,2020,2020,2020,4,0,1,Import,300,Greece,GRC,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,150000.0,,150000.0,,90538,,,0
 H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,150000.0,,150000.0,,80099,,,0
-H5,2020,2020,2020,4,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,150.0,,150.0,,25,,,0
-H5,2020,2020,2020,4,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,2025016.0,,2025016.0,,622716,,,0
-H5,2020,2020,2020,4,0,1,Import,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,3232.0,,3232.0,,3121,,,0
-H5,2020,2020,2020,4,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,32900.0,,32900.0,,24721,,,0
-H5,2020,2020,2020,4,0,2,Export,344,"China, Hong Kong SAR",HKG,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,1125.0,,1125.0,,1463,,,0
-H5,2020,2020,2020,2,0,2,Export,170,Colombia,COL,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1366368,,,0
-H5,2020,2020,2020,2,0,2,Export,188,Costa Rica,CRI,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,9811,,,0
-H5,2020,2020,2020,2,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,3753,,,0
-H5,2020,2020,2020,2,0,2,Export,276,Germany,DEU,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,76389,,,0
-H5,2020,2020,2020,2,0,2,Export,320,Guatemala,GTM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,3960171,,,0
-H5,2020,2020,2020,2,0,2,Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1134070,,,0
-H5,2020,2020,2020,2,0,3,Re-Export,328,Guyana,GUY,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1103,,,0
-H5,2020,2020,2020,2,0,2,Export,348,Hungary,HUN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1452,,,0
-H5,2020,2020,2020,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,3485,,,0
-H5,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,7211.0,,340.0,,26379,,,0
 H5,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,3300.0,,3300.0,,11997,,,0
 H5,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,,,437.0,,437.0,,264,,,0
 H5,2020,2020,2020,4,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,43677594.0,,43677594.0,,18983174,,,0
 H5,2020,2020,2020,4,0,1,Import,508,Mozambique,MOZ,740,Suriname,SUR,,,,,,,,1006,Rice,1,No Quantity,,,0.0,,,,21262,,,6
 H5,2020,2020,2020,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,6076325.0,,6076325.0,,2574975,,,0
 H5,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,13533.0,,13533.0,,25914,,,0
-H5,2020,2020,2020,4,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,125000.0,,125000.0,,74375,,,0
-H5,2020,2020,2020,4,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,237480.0,,237480.0,,122795,,,0
-H5,2020,2020,2020,4,0,2,Export,428,Latvia,LVA,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,63030.0,,63030.0,,20607,,,0
-H5,2020,2020,2020,4,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,60.0,,60.0,,236,,,0
-H5,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,4434662.0,,4434662.0,,1551451,,,0
 H5,2020,2020,2020,4,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,1507,"Soya-bean oil and its fractions; whether or not refined, but not chemically modified",8,Weight in kilograms,,,1373270.0,,1373270.0,,1486191,,,0
-H5,2020,2020,2020,2,0,1,Import,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,35865,,,0
-H5,2020,2020,2020,2,0,2,Export,388,Jamaica,JAM,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,136653,,,0
-H5,2020,2020,2020,2,0,2,Export,490,"Other Asia, nes",,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,47478,,,0
-H5,2020,2020,2020,2,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,53,,,0
-H5,2020,2020,2020,2,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,1181757,,,0
-H5,2020,2020,2020,2,0,2,Export,586,Pakistan,PAK,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,13442,,,0
-H5,2020,2020,2020,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0105,"Poultry; live, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls",5,Number of items,,,59900.0,,,,328045,,,4
 H5,2020,2020,2020,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,0207,"Meat and edible offal of poultry; of the poultry of heading no. 0105, (i.e. fowls of the species Gallus domesticus), fresh, chilled or frozen",8,Weight in kilograms,,,17802785.0,,17802785.0,,13851386,,,0
 H5,2020,2020,2020,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,,,24000.0,,24000.0,,5304,,,0
+H5,2020,2020,2020,4,0,1,Import,616,Poland,POL,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,125000.0,,125000.0,,74375,,,0
 H5,2020,2020,2020,4,0,1,Import,620,Portugal,PRT,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,22395690.0,,22395690.0,,9657248,,,0
 H5,2020,2020,2020,4,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,12950.0,,12950.0,,14982,,,0
 H5,2020,2020,2020,4,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,25000.0,,25000.0,,15650,,,0
@@ -906,9 +336,3 @@ H5,2020,2020,2020,4,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,1006,Ric
 H5,2020,2020,2020,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,2700.0,,2700.0,,2237,,,0
 H5,2020,2020,2020,4,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,102679.0,,102679.0,,115000,,,0
 H5,2020,2020,2020,4,0,3,Re-Export,842,USA,USA,740,Suriname,SUR,,,,,,,,1006,Rice,8,Weight in kilograms,,,102679.0,,102679.0,,115000,,,0
-H5,2020,2020,2020,4,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,,,623330.0,,623330.0,,199418,,,0
-H5,2020,2020,2020,2,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,13393,,,0
-H5,2020,2020,2020,2,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,21773,,,0
-H5,2020,2020,2020,2,0,2,Export,764,Thailand,THA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,803,,,0
-H5,2020,2020,2020,2,0,2,Export,792,Turkey,TUR,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,20744,,,0
-H5,2020,2020,2020,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,,,0.0,,0.0,,143755,,,0

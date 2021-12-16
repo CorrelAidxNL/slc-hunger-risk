@@ -12,11 +12,12 @@ country = "Suriname"
 hs_codes = [
     "1006", # rice
     "1001", # wheat
-    "1101", # wheat flour
-    "17", # sugar
-    "0105", # poultry, live
+    # "1101", # wheat flour
+    # "17", # sugar
+    # "0105", # poultry, live
     "0207", # poultry, meat
     "1507", # soyabaen oil
+    # fish?
 ]
 years = [y for y in range(2010, 2022)]
 
