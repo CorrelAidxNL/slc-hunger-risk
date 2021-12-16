@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Script for downloading and analysing food supply Suriname
+Script for downloading and analysing food supply of proteins Suriname
 """
 import sys
 
@@ -81,15 +81,14 @@ df["Imports_kcal"] = df["Value_Quant_import"] / df["Conversion"]
 #merge df with df_dom_supply
 df = pd.merge(df, df_dom_supply, on = "Item")
 df = df.rename(columns = {"Value": "Value_dom_supply"})
-df["Dom_supply_kcal"] = df["Value_dom_supply"] / df["Conversion"]
-df = df.sort_values(by="Dom_supply_kcal", ascending=False)
+df = df.sort_values(by="Value_supply_kcal", ascending=False)
 df = df[:15]
 
 #Plot kcal provided by imported foods against domestic supply quantity (both in kcal)
 sns.set_theme(style="darkgrid")
 # Initialize the matplotlib figure
 fig, ax = plt.subplots(figsize=(12,8))
-sns.barplot(data=df, x="Dom_supply_kcal", y="Item", color = "b")
+sns.barplot(data=df, x="Value_supply_kcal", y="Item", color = "b")
 sns.set_color_codes("dark")
 sns.barplot(data=df, x="Imports_kcal", y="Item", color = "b")
 sns.despine(left=True, bottom=True)
