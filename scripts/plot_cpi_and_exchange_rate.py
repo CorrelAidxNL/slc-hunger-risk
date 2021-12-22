@@ -8,6 +8,8 @@ from slc_hunger_risk.config import data_dir, plot_dir
 
 os.makedirs(plot_dir(), exist_ok=True)
 
+# CPI
+
 baseline_year, baseline_month = 2020, 1
 
 df = pd.read_csv(data_dir("processed", "ABS_Sur_CPI.csv"))
@@ -46,3 +48,31 @@ fig.tight_layout()
 fig.savefig(plot_dir("cpi.png"), dpi=100)
 
 plt.close()
+
+# Exchange rate
+
+df = pd.read_csv(data_dir("processed", "CBVS_exchange_rates.csv"))
+
+df["Date"] = pd.to_datetime(df["Time_Period"])
+df[" "] = " "
+
+fig, ax = plt.subplots(figsize=(5, 4))
+sns.lineplot(
+    data=df[df["Date"] >= pd.to_datetime("2016-04-01")], 
+    x="Date", 
+    y="EXR_SDR_USD",
+    style=" ", 
+    markers=True, 
+    dashes=False,
+    legend=False,
+    ax=ax,
+)
+sns.despine(left=True, bottom=True)
+ax.set(
+    title="Exchange Rate USD to SRD",
+    ylabel=None,
+    xlabel=None,
+)
+fig.tight_layout()
+fig.savefig(plot_dir("usd_srd.png"), dpi=100)
+
