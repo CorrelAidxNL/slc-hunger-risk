@@ -96,10 +96,10 @@ def calculate_deficits(df, scenario_year=baseline_year, scenario_month=baseline_
         nonfood *= get_overall_cpi(scenario_year, scenario_month) / get_overall_cpi(baseline_year, baseline_month)
         budget *= nominal_income_rise
         suffix = f"{diet}_{scenario_year}_{scenario_month:02d}_income_rise_{nominal_income_rise:.2f}"
-        df[f"deficit_{suffix}"] = np.maximum(
+        df[f"deficit_{suffix}"] = np.minimum(food_cost, np.maximum(
             nonfood + food_cost - budget,
             0,
-        ) * df["hh_size"]
+        )) * df["hh_size"]
         df[f"target_population_{suffix}"] = np.where(df[f"deficit_{suffix}"] > 0, df["hh_size"], 0)
         # For numerical reasons
         df[f"deficit_{suffix}"] += 1e-12
